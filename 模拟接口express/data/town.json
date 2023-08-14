@@ -1,0 +1,1643 @@
+{
+  "resultDesc": "操作成功！",
+  "resultCode": 1,
+  "data": [
+      {
+          "townid": "3205830249",
+          "townname": "安上村"
+      },
+      {
+          "townid": "320583025N",
+          "townname": "安头村"
+      },
+      {
+          "townid": "3205830121",
+          "townname": "巴城湖村"
+      },
+      {
+          "townid": "3205830120",
+          "townname": "巴城派出所"
+      },
+      {
+          "townid": "320583012B",
+          "townname": "巴城社区"
+      },
+      {
+          "townid": "3205830122",
+          "townname": "巴城所石牌警务站"
+      },
+      {
+          "townid": "3205830039",
+          "townname": "白马泾社区居委"
+      },
+      {
+          "townid": "320583025L",
+          "townname": "白米村"
+      },
+      {
+          "townid": "3205830084",
+          "townname": "白墅小区"
+      },
+      {
+          "townid": "3205830115",
+          "townname": "白塘社区"
+      },
+      {
+          "townid": "320583004H",
+          "townname": "柏芦综合市场"
+      },
+      {
+          "townid": "3205830033",
+          "townname": "柏庐社区居委"
+      },
+      {
+          "townid": "320583030B",
+          "townname": "宝衡社区居委会"
+      },
+      {
+          "townid": "3205830303",
+          "townname": "宝领社区"
+      },
+      {
+          "townid": "3205830062",
+          "townname": "北管泾村 "
+      },
+      {
+          "townid": "320583031A",
+          "townname": "滨江社区"
+      },
+      {
+          "townid": "3205830210",
+          "townname": "兵希派出所"
+      },
+      {
+          "townid": "3205830214",
+          "townname": "兵希社区"
+      },
+      {
+          "townid": "3205830186",
+          "townname": "并蒂莲社区 "
+      },
+      {
+          "townid": "3205830034",
+          "townname": "采莲社区居委"
+      },
+      {
+          "townid": "320583003C",
+          "townname": "仓基街社区居委"
+      },
+      {
+          "townid": "3205830320",
+          "townname": "曹安派出所"
+      },
+      {
+          "townid": "3205830343",
+          "townname": "产业园社区"
+      },
+      {
+          "townid": "3205830290",
+          "townname": "长江派出所"
+      },
+      {
+          "townid": "3205830165",
+          "townname": "长荣社区"
+      },
+      {
+          "townid": "3205830066",
+          "townname": "长云村 "
+      },
+      {
+          "townid": "320583020C",
+          "townname": "超英村"
+      },
+      {
+          "townid": "3205830013",
+          "townname": "朝阳门社区居委"
+      },
+      {
+          "townid": "3205830010",
+          "townname": "朝阳派出所"
+      },
+      {
+          "townid": "3205830014",
+          "townname": "朝阳新村社区居委"
+      },
+      {
+          "townid": "320583014B",
+          "townname": "车塘村"
+      },
+      {
+          "townid": "3205830146",
+          "townname": "陈巷村"
+      },
+      {
+          "townid": "3205830160",
+          "townname": "城北派出所"
+      },
+      {
+          "townid": "3205830040",
+          "townname": "城西派出所"
+      },
+      {
+          "townid": "3205830030",
+          "townname": "城中派出所"
+      },
+      {
+          "townid": "3205830306",
+          "townname": "出口加工区A区"
+      },
+      {
+          "townid": "3205830307",
+          "townname": "出口加工区B区"
+      },
+      {
+          "townid": "3205830309",
+          "townname": "出口加工园警务站"
+      },
+      {
+          "townid": "320583030F",
+          "townname": "创业社区居委会"
+      },
+      {
+          "townid": "3205830185",
+          "townname": "绰墩山村"
+      },
+      {
+          "townid": "3205830041",
+          "townname": "大公村综办治"
+      },
+      {
+          "townid": "320583025D",
+          "townname": "大市村(社区)"
+      },
+      {
+          "townid": "3205830073",
+          "townname": "大潭村"
+      },
+      {
+          "townid": "3205830072",
+          "townname": "大唐村 "
+      },
+      {
+          "townid": "3205830223",
+          "townname": "大通村"
+      },
+      {
+          "townid": "3205830051",
+          "townname": "大同社区"
+      },
+      {
+          "townid": "3205830037",
+          "townname": "大西门社区居委"
+      },
+      {
+          "townid": "3205830331",
+          "townname": "大学城社区"
+      },
+      {
+          "townid": "3205830047",
+          "townname": "大渔村综办治"
+      },
+      {
+          "townid": "320583004J",
+          "townname": "大渔社区居委会"
+      },
+      {
+          "townid": "3205830259",
+          "townname": "大直村"
+      },
+      {
+          "townid": "320583005A",
+          "townname": "大众村村委"
+      },
+      {
+          "townid": "320583024I",
+          "townname": "淀湖社区"
+      },
+      {
+          "townid": "3205830244",
+          "townname": "淀辉锦园社区"
+      },
+      {
+          "townid": "3205830240",
+          "townname": "淀山湖派出所"
+      },
+      {
+          "townid": "3205830241",
+          "townname": "淀山湖社区"
+      },
+      {
+          "townid": "320583030A",
+          "townname": "蝶湖湾社区"
+      },
+      {
+          "townid": "3205830111",
+          "townname": "东方村"
+      },
+      {
+          "townid": "3205830298",
+          "townname": "东门社区"
+      },
+      {
+          "townid": "3205830206",
+          "townname": "东明村"
+      },
+      {
+          "townid": "3205830315",
+          "townname": "东星社区"
+      },
+      {
+          "townid": "3205830125",
+          "townname": "东阳澄湖村"
+      },
+      {
+          "townid": "320583012D",
+          "townname": "东岳村"
+      },
+      {
+          "townid": "3205830123",
+          "townname": "东岳村警务站"
+      },
+      {
+          "townid": "3205830157",
+          "townname": "东泾村"
+      },
+      {
+          "townid": "3205830289",
+          "townname": "东浜村"
+      },
+      {
+          "townid": "320583016B",
+          "townname": "杜桥村村委"
+      },
+      {
+          "townid": "3205830246",
+          "townname": "度城村"
+      },
+      {
+          "townid": "320583024K",
+          "townname": "度假区社区"
+      },
+      {
+          "townid": "320583012G",
+          "townname": "方港村"
+      },
+      {
+          "townid": "3205830052",
+          "townname": "枫景苑社区 "
+      },
+      {
+          "townid": "320583015G",
+          "townname": "枫浜社区居民委员会"
+      },
+      {
+          "townid": "320583012C",
+          "townname": "凤凰村"
+      },
+      {
+          "townid": "3205830286",
+          "townname": "复兴村"
+      },
+      {
+          "townid": "3205830086",
+          "townname": "富华社区"
+      },
+      {
+          "townid": "320583024G",
+          "townname": "富力湾天力建筑公司"
+      },
+      {
+          "townid": "3205830319",
+          "townname": "富士康社区"
+      },
+      {
+          "townid": "320583005H",
+          "townname": "富智康社区"
+      },
+      {
+          "townid": "3205830063",
+          "townname": "干家甸村"
+      },
+      {
+          "townid": "3205830036",
+          "townname": "高板桥社区居委"
+      },
+      {
+          "townid": "3205830283",
+          "townname": "高勇村"
+      },
+      {
+          "townid": "3205830045",
+          "townname": "共青村综治办"
+      },
+      {
+          "townid": "320583004D",
+          "townname": "共青社区"
+      },
+      {
+          "townid": "3205830326",
+          "townname": "古南警务室"
+      },
+      {
+          "townid": "320583007N",
+          "townname": "古镇社区居委会"
+      },
+      {
+          "townid": "320583024H",
+          "townname": "古鳌电子"
+      },
+      {
+          "townid": "320583006G",
+          "townname": "顾家浜村 "
+      },
+      {
+          "townid": "320583032D",
+          "townname": "观澜社区居委会"
+      },
+      {
+          "townid": "320583016A",
+          "townname": "广福村村委"
+      },
+      {
+          "townid": "3205830119",
+          "townname": "桂冠社区"
+      },
+      {
+          "townid": "3205830163",
+          "townname": "海峰社区"
+      },
+      {
+          "townid": "320583014C",
+          "townname": "合丰村"
+      },
+      {
+          "townid": "3205830291",
+          "townname": "合兴社区"
+      },
+      {
+          "townid": "320583021C",
+          "townname": "河寸泾居民委员会"
+      },
+      {
+          "townid": "320583020D",
+          "townname": "横娄村"
+      },
+      {
+          "townid": "320583015E",
+          "townname": "横墅江社区"
+      },
+      {
+          "townid": "3205830323",
+          "townname": "横漕警务室"
+      },
+      {
+          "townid": "3205830048",
+          "townname": "虹桥社区居委"
+      },
+      {
+          "townid": "320583003E",
+          "townname": "红峰社区居委"
+      },
+      {
+          "townid": "320583004B",
+          "townname": "红旗社区居委 "
+      },
+      {
+          "townid": "320583006M",
+          "townname": "红霞村 "
+      },
+      {
+          "townid": "320583024A",
+          "townname": "红星村"
+      },
+      {
+          "townid": "3205830129",
+          "townname": "红杨河村"
+      },
+      {
+          "townid": "3205830189",
+          "townname": "湖滨花园 "
+      },
+      {
+          "townid": "3205830151",
+          "townname": "花安社区"
+      },
+      {
+          "townid": "3205830325",
+          "townname": "花桥规建局"
+      },
+      {
+          "townid": "320583015B",
+          "townname": "花桥规建局"
+      },
+      {
+          "townid": "3205830150",
+          "townname": "花桥派出所"
+      },
+      {
+          "townid": "3205830156",
+          "townname": "花桥社区"
+      },
+      {
+          "townid": "320583015A",
+          "townname": "花桥市镇"
+      },
+      {
+          "townid": "3205830154",
+          "townname": "花溪社区"
+      },
+      {
+          "townid": "3205830255",
+          "townname": "花园村"
+      },
+      {
+          "townid": "3205830161",
+          "townname": "花园社区"
+      },
+      {
+          "townid": "3205830231",
+          "townname": "华强社区"
+      },
+      {
+          "townid": "320583004L",
+          "townname": "华润社区居委会"
+      },
+      {
+          "townid": "320583012F",
+          "townname": "华社村"
+      },
+      {
+          "townid": "320583012K",
+          "townname": "环湖村"
+      },
+      {
+          "townid": "320583031C",
+          "townname": "皇仓泾社区"
+      },
+      {
+          "townid": "3205830164",
+          "townname": "火炬社区"
+      },
+      {
+          "townid": "320583030C",
+          "townname": "吉星社区居委会"
+      },
+      {
+          "townid": "3205830155",
+          "townname": "集善社区"
+      },
+      {
+          "townid": "3205830068",
+          "townname": "计家墩村 "
+      },
+      {
+          "townid": "3205830224",
+          "townname": "建通村"
+      },
+      {
+          "townid": "320583025G",
+          "townname": "姜杭村"
+      },
+      {
+          "townid": "3205830056",
+          "townname": "姜巷村村委 "
+      },
+      {
+          "townid": "320583004C",
+          "townname": "江浦村村委"
+      },
+      {
+          "townid": "320583007Z",
+          "townname": "教育局采集点"
+      },
+      {
+          "townid": "320583016Z",
+          "townname": "教育局采集点 "
+      },
+      {
+          "townid": "320583001Z",
+          "townname": "教育局采集点 "
+      },
+      {
+          "townid": "3205830158",
+          "townname": "金城村"
+      },
+      {
+          "townid": "3205830254",
+          "townname": "金华村"
+      },
+      {
+          "townid": "3205830245",
+          "townname": "金家庄村"
+      },
+      {
+          "townid": "320583011B",
+          "townname": "金威社区"
+      },
+      {
+          "townid": "320583025W",
+          "townname": "锦和社区"
+      },
+      {
+          "townid": "3205830082",
+          "townname": "锦华园"
+      },
+      {
+          "townid": "320583006L",
+          "townname": "锦溪花园社区"
+      },
+      {
+          "townid": "3205830060",
+          "townname": "锦溪派出所"
+      },
+      {
+          "townid": "3205830308",
+          "townname": "精密机械产业园服务区"
+      },
+      {
+          "townid": "3205830058",
+          "townname": "景村村村委 "
+      },
+      {
+          "townid": "320583015D",
+          "townname": "聚福社区"
+      },
+      {
+          "townid": "320583015F",
+          "townname": "聚杨社区居民委员会"
+      },
+      {
+          "townid": "3205830116",
+          "townname": "康泾湾社区"
+      },
+      {
+          "townid": "3205830301",
+          "townname": "孔巷社区"
+      },
+      {
+          "townid": "3205830341",
+          "townname": "孔巷社区"
+      },
+      {
+          "townid": "320583005D",
+          "townname": "昆山乙盛机械工业有限公司"
+      },
+      {
+          "townid": "320583030D",
+          "townname": "昆苑社区居委会"
+      },
+      {
+          "townid": "3205830215",
+          "townname": "乐和社区"
+      },
+      {
+          "townid": "3205830217",
+          "townname": "乐康社区"
+      },
+      {
+          "townid": "3205830216",
+          "townname": "乐善社区"
+      },
+      {
+          "townid": "3205830218",
+          "townname": "乐文社区"
+      },
+      {
+          "townid": "320583003B",
+          "townname": "里厍社区居委"
+      },
+      {
+          "townid": "320583011D",
+          "townname": "丽德社区"
+      },
+      {
+          "townid": "3205830085",
+          "townname": "丽华社区"
+      },
+      {
+          "townid": "3205830243",
+          "townname": "利民社区"
+      },
+      {
+          "townid": "3205830168",
+          "townname": "力量社区"
+      },
+      {
+          "townid": "320583006F",
+          "townname": "联湖村"
+      },
+      {
+          "townid": "320583012E",
+          "townname": "联民村"
+      },
+      {
+          "townid": "320583025M",
+          "townname": "林庄村"
+      },
+      {
+          "townid": "320583012M",
+          "townname": "临湖社区居委会"
+      },
+      {
+          "townid": "3205830281",
+          "townname": "龙风村"
+      },
+      {
+          "townid": "3205830127",
+          "townname": "龙潭湖村"
+      },
+      {
+          "townid": "3205830287",
+          "townname": "龙亭村"
+      },
+      {
+          "townid": "3205830144",
+          "townname": "龙王社区"
+      },
+      {
+          "townid": "320583004F",
+          "townname": "娄江社区"
+      },
+      {
+          "townid": "3205830313",
+          "townname": "娄苑社区"
+      },
+      {
+          "townid": "3205830145",
+          "townname": "陆家村"
+      },
+      {
+          "townid": "3205830140",
+          "townname": "陆家派出所"
+      },
+      {
+          "townid": "320583023B",
+          "townname": "陆家桥村"
+      },
+      {
+          "townid": "3205830141",
+          "townname": "陆家社区"
+      },
+      {
+          "townid": "320583014D",
+          "townname": "陆家社区"
+      },
+      {
+          "townid": "320583020E",
+          "townname": "陆桥村"
+      },
+      {
+          "townid": "3205830209",
+          "townname": "陆杨社区"
+      },
+      {
+          "townid": "320583006E",
+          "townname": "陆泾村 "
+      },
+      {
+          "townid": "3205830328",
+          "townname": "绿地警务室"
+      },
+      {
+          "townid": "3205830329",
+          "townname": "绿地警务室"
+      },
+      {
+          "townid": "3205830128",
+          "townname": "马料江村"
+      },
+      {
+          "townid": "320583007J",
+          "townname": "马路桥社区"
+      },
+      {
+          "townid": "320583022C",
+          "townname": "马塘村"
+      },
+      {
+          "townid": "3205830237",
+          "townname": "马巷村"
+      },
+      {
+          "townid": "320583006C",
+          "townname": "马援庄村 "
+      },
+      {
+          "townid": "3205830057",
+          "townname": "马庄村村委"
+      },
+      {
+          "townid": "3205830126",
+          "townname": "茅沙塘村"
+      },
+      {
+          "townid": "3205830117",
+          "townname": "毛厍社区"
+      },
+      {
+          "townid": "320583005I",
+          "townname": "美丰社区 "
+      },
+      {
+          "townid": "3205830087",
+          "townname": "美华"
+      },
+      {
+          "townid": "3205830083",
+          "townname": "美华社区"
+      },
+      {
+          "townid": "3205830061",
+          "townname": "孟子浜村"
+      },
+      {
+          "townid": "3205830043",
+          "townname": "庙灯村综治办"
+      },
+      {
+          "townid": "320583024C",
+          "townname": "民和村"
+      },
+      {
+          "townid": "320583004M",
+          "townname": "明珠社区居委会"
+      },
+      {
+          "townid": "3205830118",
+          "townname": "睦和社区"
+      },
+      {
+          "townid": "320583025I",
+          "townname": "南港社区"
+      },
+      {
+          "townid": "320583028A",
+          "townname": "南湖村"
+      },
+      {
+          "townid": "320583025S",
+          "townname": "南吉山村"
+      },
+      {
+          "townid": "320583007A",
+          "townname": "南吉山村(撤销) "
+      },
+      {
+          "townid": "320583006J",
+          "townname": "南前村"
+      },
+      {
+          "townid": "320583021A",
+          "townname": "南桥社区"
+      },
+      {
+          "townid": "3205830076",
+          "townname": "南湾村 "
+      },
+      {
+          "townid": "320583005C",
+          "townname": "南星渎村 "
+      },
+      {
+          "townid": "320583025F",
+          "townname": "南姚村"
+      },
+      {
+          "townid": "3205830049",
+          "townname": "南渔村村委"
+      },
+      {
+          "townid": "3205830238",
+          "townname": "年沙村"
+      },
+      {
+          "townid": "320583007O",
+          "townname": "年沙社区居民委员会"
+      },
+      {
+          "townid": "3205830018",
+          "townname": "盆渎村社区"
+      },
+      {
+          "townid": "3205830225",
+          "townname": "蓬北村"
+      },
+      {
+          "townid": "3205830220",
+          "townname": "蓬朗派出所"
+      },
+      {
+          "townid": "3205830221",
+          "townname": "蓬朗社区"
+      },
+      {
+          "townid": "3205830226",
+          "townname": "蓬南村"
+      },
+      {
+          "townid": "3205830159",
+          "townname": "蓬善村"
+      },
+      {
+          "townid": "3205830222",
+          "townname": "蓬曦园社区"
+      },
+      {
+          "townid": "3205830211",
+          "townname": "平巷社区"
+      },
+      {
+          "townid": "3205830204",
+          "townname": "平庄村"
+      },
+      {
+          "townid": "3205830257",
+          "townname": "七桥村"
+      },
+      {
+          "townid": "3205830288",
+          "townname": "祁浜村"
+      },
+      {
+          "townid": "3205830070",
+          "townname": "千灯派出所"
+      },
+      {
+          "townid": "320583029C",
+          "townname": "千叶公寓"
+      },
+      {
+          "townid": "320583007E",
+          "townname": "前进村 "
+      },
+      {
+          "townid": "320583025V",
+          "townname": "亲和社区"
+      },
+      {
+          "townid": "320583007M",
+          "townname": "秦峰社区 "
+      },
+      {
+          "townid": "3205830080",
+          "townname": "青阳派出所"
+      },
+      {
+          "townid": "320583005E",
+          "townname": "青淞村 "
+      },
+      {
+          "townid": "3205830054",
+          "townname": "青淞社区 "
+      },
+      {
+          "townid": "3205830044",
+          "townname": "青淞社区警务站"
+      },
+      {
+          "townid": "3205830316",
+          "townname": "清水港社区"
+      },
+      {
+          "townid": "320583028C",
+          "townname": "全功能社区"
+      },
+      {
+          "townid": "3205830282",
+          "townname": "全旺村"
+      },
+      {
+          "townid": "320583005B",
+          "townname": "群星村村委"
+      },
+      {
+          "townid": "3205830302",
+          "townname": "群益社区"
+      },
+      {
+          "townid": "3205830305",
+          "townname": "群益社区二"
+      },
+      {
+          "townid": "3205830184",
+          "townname": "荣亭村 "
+      },
+      {
+          "townid": "3205830064",
+          "townname": "阮家浜村 "
+      },
+      {
+          "townid": "320583025B",
+          "townname": "三家村"
+      },
+      {
+          "townid": "320583006D",
+          "townname": "三联村"
+      },
+      {
+          "townid": "320583007C",
+          "townname": "善浦村 "
+      },
+      {
+          "townid": "3205830152",
+          "townname": "上岸村"
+      },
+      {
+          "townid": "320583006N",
+          "townname": "上塘社区"
+      },
+      {
+          "townid": "320583025E",
+          "townname": "尚明甸村"
+      },
+      {
+          "townid": "3205830142",
+          "townname": "邵村社区"
+      },
+      {
+          "townid": "3205830227",
+          "townname": "邵泾村"
+      },
+      {
+          "townid": "3205830147",
+          "townname": "神童泾村"
+      },
+      {
+          "townid": "3205830079",
+          "townname": "盛家埭村"
+      },
+      {
+          "townid": "320583006K",
+          "townname": "盛塘村 "
+      },
+      {
+          "townid": "3205830212",
+          "townname": "盛庄村"
+      },
+      {
+          "townid": "3205830169",
+          "townname": "胜利社区"
+      },
+      {
+          "townid": "3205830078",
+          "townname": "施家泾村 "
+      },
+      {
+          "townid": "3205830233",
+          "townname": "石北村"
+      },
+      {
+          "townid": "320583022A",
+          "townname": "石牌村"
+      },
+      {
+          "townid": "3205830232",
+          "townname": "石浦村"
+      },
+      {
+          "townid": "3205830230",
+          "townname": "石浦派出所"
+      },
+      {
+          "townid": "320583030E",
+          "townname": "石桥社区居委会"
+      },
+      {
+          "townid": "3205830242",
+          "townname": "石洋河社区"
+      },
+      {
+          "townid": "320583032B",
+          "townname": "时代社区"
+      },
+      {
+          "townid": "3205830207",
+          "townname": "市北村"
+      },
+      {
+          "townid": "3205830188",
+          "townname": "市镇南片"
+      },
+      {
+          "townid": "320583023C",
+          "townname": "市镇社区居委会"
+      },
+      {
+          "townid": "320583007H",
+          "townname": "市政二居委"
+      },
+      {
+          "townid": "320583007L",
+          "townname": "市政三居委"
+      },
+      {
+          "townid": "320583007G",
+          "townname": "市政一居委 "
+      },
+      {
+          "townid": "320583024D",
+          "townname": "双护村"
+      },
+      {
+          "townid": "3205830229",
+          "townname": "双林村"
+      },
+      {
+          "townid": "3205830285",
+          "townname": "双庙村"
+      },
+      {
+          "townid": "3205830153",
+          "townname": "顺扬村"
+      },
+      {
+          "townid": "320583004I",
+          "townname": "思常社区"
+      },
+      {
+          "townid": "3205830293",
+          "townname": "司徒社区"
+      },
+      {
+          "townid": "320583016F",
+          "townname": "唐龙村村委"
+      },
+      {
+          "townid": "320583007D",
+          "townname": "陶家桥村"
+      },
+      {
+          "townid": "3205830327",
+          "townname": "天福警务室"
+      },
+      {
+          "townid": "320583015C",
+          "townname": "天福社区"
+      },
+      {
+          "townid": "3205830038",
+          "townname": "亭林街道"
+      },
+      {
+          "townid": "320583003A",
+          "townname": "亭林社区居委"
+      },
+      {
+          "townid": "3205830181",
+          "townname": "通澄村"
+      },
+      {
+          "townid": "3205830299",
+          "townname": "同丰社区"
+      },
+      {
+          "townid": "3205830310",
+          "townname": "同心派出所"
+      },
+      {
+          "townid": "3205830311",
+          "townname": "同心社区"
+      },
+      {
+          "townid": "320583030G",
+          "townname": "伟业社区居委会"
+      },
+      {
+          "townid": "3205830065",
+          "townname": "卫星村"
+      },
+      {
+          "townid": "3205830256",
+          "townname": "吴家村"
+      },
+      {
+          "townid": "320583007I",
+          "townname": "吴桥村 "
+      },
+      {
+          "townid": "3205830050",
+          "townname": "吴淞江派出所"
+      },
+      {
+          "townid": "320583012I",
+          "townname": "武城村"
+      },
+      {
+          "townid": "320583012A",
+          "townname": "武神潭村"
+      },
+      {
+          "townid": "320583016C",
+          "townname": "五联村村委"
+      },
+      {
+          "townid": "3205830294",
+          "townname": "西河社区"
+      },
+      {
+          "townid": "320583007B",
+          "townname": "西横村"
+      },
+      {
+          "townid": "320583012J",
+          "townname": "西南村"
+      },
+      {
+          "townid": "3205830019",
+          "townname": "西桥社区"
+      },
+      {
+          "townid": "3205830075",
+          "townname": "西宿村"
+      },
+      {
+          "townid": "3205830295",
+          "townname": "西湾社区"
+      },
+      {
+          "townid": "320583006I",
+          "townname": "狭港村 "
+      },
+      {
+          "townid": "320583018A",
+          "townname": "下塘南片"
+      },
+      {
+          "townid": "320583006P",
+          "townname": "下塘社区 "
+      },
+      {
+          "townid": "320583012H",
+          "townname": "夏东村"
+      },
+      {
+          "townid": "3205830213",
+          "townname": "夏驾社区"
+      },
+      {
+          "townid": "3205830148",
+          "townname": "夏桥村"
+      },
+      {
+          "townid": "320583024J",
+          "townname": "香馨社区居委会"
+      },
+      {
+          "townid": "3205830162",
+          "townname": "萧林社区"
+      },
+      {
+          "townid": "320583022B",
+          "townname": "小连村"
+      },
+      {
+          "townid": "3205830035",
+          "townname": "小桃园社区居委"
+      },
+      {
+          "townid": "3205830011",
+          "townname": "小渔岸社区居委"
+      },
+      {
+          "townid": "320583020F",
+          "townname": "小泾村"
+      },
+      {
+          "townid": "3205830074",
+          "townname": "肖市村 "
+      },
+      {
+          "townid": "3205830239",
+          "townname": "歇马桥村"
+      },
+      {
+          "townid": "3205830202",
+          "townname": "斜塘村"
+      },
+      {
+          "townid": "3205830322",
+          "townname": "新安警务室"
+      },
+      {
+          "townid": "320583032A",
+          "townname": "新安警务室中宇办证点"
+      },
+      {
+          "townid": "3205830314",
+          "townname": "新北社区"
+      },
+      {
+          "townid": "320583005F",
+          "townname": "新城域社区"
+      },
+      {
+          "townid": "320583016E",
+          "townname": "新江村村委"
+      },
+      {
+          "townid": "320583004E",
+          "townname": "新江南康居园"
+      },
+      {
+          "townid": "3205830124",
+          "townname": "新开河村"
+      },
+      {
+          "townid": "320583003D",
+          "townname": "新昆社区居委"
+      },
+      {
+          "townid": "3205830318",
+          "townname": "新乐村村委"
+      },
+      {
+          "townid": "320583031B",
+          "townname": "新乐融城社区"
+      },
+      {
+          "townid": "320583025K",
+          "townname": "新龙村"
+      },
+      {
+          "townid": "320583005G",
+          "townname": "新南村 "
+      },
+      {
+          "townid": "3205830053",
+          "townname": "新南社区"
+      },
+      {
+          "townid": "3205830324",
+          "townname": "新浦警务室"
+      },
+      {
+          "townid": "320583016D",
+          "townname": "新生村村委"
+      },
+      {
+          "townid": "3205830234",
+          "townname": "新潭村"
+      },
+      {
+          "townid": "3205830253",
+          "townname": "新塘村"
+      },
+      {
+          "townid": "320583025U",
+          "townname": "新吴社区"
+      },
+      {
+          "townid": "320583005J",
+          "townname": "新溪社区"
+      },
+      {
+          "townid": "320583025T",
+          "townname": "新巷社区"
+      },
+      {
+          "townid": "320583024F",
+          "townname": "新杨村"
+      },
+      {
+          "townid": "3205830031",
+          "townname": "新阳社区居委"
+      },
+      {
+          "townid": "3205830112",
+          "townname": "新镇村"
+      },
+      {
+          "townid": "3205830110",
+          "townname": "新镇派出所"
+      },
+      {
+          "townid": "320583011C",
+          "townname": "新镇社区"
+      },
+      {
+          "townid": "320583023A",
+          "townname": "新泾村"
+      },
+      {
+          "townid": "320583020A",
+          "townname": "新瑭村"
+      },
+      {
+          "townid": "320583005K",
+          "townname": "星辰社区 "
+      },
+      {
+          "townid": "320583004A",
+          "townname": "星海社区居委"
+      },
+      {
+          "townid": "320583025J",
+          "townname": "星金村"
+      },
+      {
+          "townid": "3205830321",
+          "townname": "星浜警务室"
+      },
+      {
+          "townid": "3205830247",
+          "townname": "兴复村"
+      },
+      {
+          "townid": "3205830297",
+          "townname": "绣东社区"
+      },
+      {
+          "townid": "3205830296",
+          "townname": "绣衣社区"
+      },
+      {
+          "townid": "3205830017",
+          "townname": "需浦社区"
+      },
+      {
+          "townid": "320583020B",
+          "townname": "许家村"
+      },
+      {
+          "townid": "3205830016",
+          "townname": "严家角社区"
+      },
+      {
+          "townid": "3205830071",
+          "townname": "炎武社区"
+      },
+      {
+          "townid": "3205830059",
+          "townname": "燕桥浜村村委"
+      },
+      {
+          "townid": "320583016G",
+          "townname": "杨林社区"
+      },
+      {
+          "townid": "320583024E",
+          "townname": "杨湘泾村"
+      },
+      {
+          "townid": "3205830182",
+          "townname": "阳澄湖村 "
+      },
+      {
+          "townid": "320583011A",
+          "townname": "阳光社区"
+      },
+      {
+          "townid": "320583004K",
+          "townname": "叶菏社区居委会"
+      },
+      {
+          "townid": "320583025O",
+          "townname": "银和社区居民委员会"
+      },
+      {
+          "townid": "3205830203",
+          "townname": "永共村"
+      },
+      {
+          "townid": "3205830166",
+          "townname": "永盛社区"
+      },
+      {
+          "townid": "3205830248",
+          "townname": "永新村"
+      },
+      {
+          "townid": "3205830081",
+          "townname": "永馨家园"
+      },
+      {
+          "townid": "3205830236",
+          "townname": "余项村"
+      },
+      {
+          "townid": "320583003G",
+          "townname": "玉峰社区居委"
+      },
+      {
+          "townid": "320583029A",
+          "townname": "玉龙社区"
+      },
+      {
+          "townid": "320583012L",
+          "townname": "玉石社区"
+      },
+      {
+          "townid": "3205830143",
+          "townname": "育才社区 "
+      },
+      {
+          "townid": "320583006A",
+          "townname": "袁甸村 "
+      },
+      {
+          "townid": "3205830012",
+          "townname": "跃进路社区居委"
+      },
+      {
+          "townid": "3205830284",
+          "townname": "云南村"
+      },
+      {
+          "townid": "3205830228",
+          "townname": "增辉村"
+      },
+      {
+          "townid": "3205830219",
+          "townname": "章基社区"
+      },
+      {
+          "townid": "3205830067",
+          "townname": "张家厍村"
+      },
+      {
+          "townid": "3205830250",
+          "townname": "张浦派出所"
+      },
+      {
+          "townid": "3205830251",
+          "townname": "张浦社区"
+      },
+      {
+          "townid": "320583025C",
+          "townname": "张浦所大市警务站"
+      },
+      {
+          "townid": "320583025H",
+          "townname": "张浦所南港警务站"
+      },
+      {
+          "townid": "3205830258",
+          "townname": "赵陵村"
+      },
+      {
+          "townid": "3205830042",
+          "townname": "赵厍村综办治"
+      },
+      {
+          "townid": "320583028B",
+          "townname": "贞丰里社区"
+      },
+      {
+          "townid": "3205830032",
+          "townname": "震川社区居委"
+      },
+      {
+          "townid": "3205830252",
+          "townname": "振苏社区"
+      },
+      {
+          "townid": "3205830015",
+          "townname": "正阳路社区居委"
+      },
+      {
+          "townid": "3205830183",
+          "townname": "正仪村"
+      },
+      {
+          "townid": "3205830180",
+          "townname": "正仪派出所"
+      },
+      {
+          "townid": "3205830077",
+          "townname": "支浦村"
+      },
+      {
+          "townid": "3205830304",
+          "townname": "中华园街道办事处"
+      },
+      {
+          "townid": "3205830300",
+          "townname": "中华园派出所"
+      },
+      {
+          "townid": "3205830235",
+          "townname": "中节村"
+      },
+      {
+          "townid": "3205830114",
+          "townname": "中乐社区"
+      },
+      {
+          "townid": "320583006H",
+          "townname": "周家浜村"
+      },
+      {
+          "townid": "3205830200",
+          "townname": "周市派出所"
+      },
+      {
+          "townid": "3205830201",
+          "townname": "周市社区"
+      },
+      {
+          "townid": "3205830208",
+          "townname": "周市所陆杨警务站"
+      },
+      {
+          "townid": "320583025A",
+          "townname": "周巷村"
+      },
+      {
+          "townid": "3205830280",
+          "townname": "周庄派出所"
+      },
+      {
+          "townid": "3205830292",
+          "townname": "珠江社区"
+      },
+      {
+          "townid": "3205830113",
+          "townname": "珠泾村"
+      },
+      {
+          "townid": "3205830205",
+          "townname": "朱家湾村"
+      },
+      {
+          "townid": "320583006B",
+          "townname": "朱浜村"
+      },
+      {
+          "townid": "320583007F",
+          "townname": "庄巷村"
+      },
+      {
+          "townid": "320583003F",
+          "townname": "状元泾社区居委"
+      },
+      {
+          "townid": "3205830317",
+          "townname": "紫藤社区"
+      },
+      {
+          "townid": "3205830312",
+          "townname": "紫竹社区"
+      },
+      {
+          "townid": "3205830342",
+          "townname": "综保区"
+      },
+      {
+          "townid": "3205830149",
+          "townname": "邹家角村"
+      },
+      {
+          "townid": "320583021B",
+          "townname": "茜步泾居民委员会"
+      },
+      {
+          "townid": "3205830055",
+          "townname": "茗景苑社区"
+      },
+      {
+          "townid": "320583016H",
+          "townname": "怡和社区"
+      },
+      {
+          "townid": "320583014A",
+          "townname": "泗桥村"
+      },
+      {
+          "townid": "320583032C",
+          "townname": "泗泾社区居委会"
+      },
+      {
+          "townid": "3205830046",
+          "townname": "泾河村综治办"
+      },
+      {
+          "townid": "320583004G",
+          "townname": "泾河社区"
+      },
+      {
+          "townid": "320583007K",
+          "townname": "淞南社区 "
+      },
+      {
+          "townid": "3205830167",
+          "townname": "濂园社区"
+      },
+      {
+          "townid": "3205830187",
+          "townname": "桦晟 "
+      },
+      {
+          "townid": "320583029B",
+          "townname": "樾城社区"
+      },
+      {
+          "townid": "320583024B",
+          "townname": "晟泰村"
+      },
+      {
+          "townid": "3205830069",
+          "townname": "虬泽村"
+      }
+  ],
+  "timestamp": 1691717328915
+}

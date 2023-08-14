@@ -1,0 +1,22 @@
+{
+  "resultDesc": "操作成功！",
+  "resultCode": 1,
+  "data": {
+    "apply_status":"",
+    "applier":"王大",
+    "applytime":"2023-08-08 10:10:00",
+    "applier_policeStationName":"周庄派出所",
+    "applier_policeId":"112233",
+    "ordered_status":"已审批",
+    "auditer":"张三",
+    "audittime":"2023-08-08 10:10:00",
+    "auditer_policeStationName":"周庄派出所",
+    "auditer_policeId":"112233",
+    "produce_status":"印制中",
+    "producer":null,
+    "installed_status":null,
+    "installer":null
+    
+  },
+  "timestamp": 1691717328915
+}

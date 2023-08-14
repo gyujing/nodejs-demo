@@ -1,0 +1,1643 @@
+{
+  "resultDesc": "操作成功！",
+  "resultCode": 1,
+  "data": [
+      {
+          "adminareaid": "3205830249",
+          "adminareaname": "安上村"
+      },
+      {
+          "adminareaid": "320583025N",
+          "adminareaname": "安头村"
+      },
+      {
+          "adminareaid": "3205830121",
+          "adminareaname": "巴城湖村"
+      },
+      {
+          "adminareaid": "3205830120",
+          "adminareaname": "巴城派出所"
+      },
+      {
+          "adminareaid": "320583012B",
+          "adminareaname": "巴城社区"
+      },
+      {
+          "adminareaid": "3205830122",
+          "adminareaname": "巴城所石牌警务站"
+      },
+      {
+          "adminareaid": "3205830039",
+          "adminareaname": "白马泾社区居委"
+      },
+      {
+          "adminareaid": "320583025L",
+          "adminareaname": "白米村"
+      },
+      {
+          "adminareaid": "3205830084",
+          "adminareaname": "白墅小区"
+      },
+      {
+          "adminareaid": "3205830115",
+          "adminareaname": "白塘社区"
+      },
+      {
+          "adminareaid": "320583004H",
+          "adminareaname": "柏芦综合市场"
+      },
+      {
+          "adminareaid": "3205830033",
+          "adminareaname": "柏庐社区居委"
+      },
+      {
+          "adminareaid": "320583030B",
+          "adminareaname": "宝衡社区居委会"
+      },
+      {
+          "adminareaid": "3205830303",
+          "adminareaname": "宝领社区"
+      },
+      {
+          "adminareaid": "3205830062",
+          "adminareaname": "北管泾村 "
+      },
+      {
+          "adminareaid": "320583031A",
+          "adminareaname": "滨江社区"
+      },
+      {
+          "adminareaid": "3205830210",
+          "adminareaname": "兵希派出所"
+      },
+      {
+          "adminareaid": "3205830214",
+          "adminareaname": "兵希社区"
+      },
+      {
+          "adminareaid": "3205830186",
+          "adminareaname": "并蒂莲社区 "
+      },
+      {
+          "adminareaid": "3205830034",
+          "adminareaname": "采莲社区居委"
+      },
+      {
+          "adminareaid": "320583003C",
+          "adminareaname": "仓基街社区居委"
+      },
+      {
+          "adminareaid": "3205830320",
+          "adminareaname": "曹安派出所"
+      },
+      {
+          "adminareaid": "3205830343",
+          "adminareaname": "产业园社区"
+      },
+      {
+          "adminareaid": "3205830290",
+          "adminareaname": "长江派出所"
+      },
+      {
+          "adminareaid": "3205830165",
+          "adminareaname": "长荣社区"
+      },
+      {
+          "adminareaid": "3205830066",
+          "adminareaname": "长云村 "
+      },
+      {
+          "adminareaid": "320583020C",
+          "adminareaname": "超英村"
+      },
+      {
+          "adminareaid": "3205830013",
+          "adminareaname": "朝阳门社区居委"
+      },
+      {
+          "adminareaid": "3205830010",
+          "adminareaname": "朝阳派出所"
+      },
+      {
+          "adminareaid": "3205830014",
+          "adminareaname": "朝阳新村社区居委"
+      },
+      {
+          "adminareaid": "320583014B",
+          "adminareaname": "车塘村"
+      },
+      {
+          "adminareaid": "3205830146",
+          "adminareaname": "陈巷村"
+      },
+      {
+          "adminareaid": "3205830160",
+          "adminareaname": "城北派出所"
+      },
+      {
+          "adminareaid": "3205830040",
+          "adminareaname": "城西派出所"
+      },
+      {
+          "adminareaid": "3205830030",
+          "adminareaname": "城中派出所"
+      },
+      {
+          "adminareaid": "3205830306",
+          "adminareaname": "出口加工区A区"
+      },
+      {
+          "adminareaid": "3205830307",
+          "adminareaname": "出口加工区B区"
+      },
+      {
+          "adminareaid": "3205830309",
+          "adminareaname": "出口加工园警务站"
+      },
+      {
+          "adminareaid": "320583030F",
+          "adminareaname": "创业社区居委会"
+      },
+      {
+          "adminareaid": "3205830185",
+          "adminareaname": "绰墩山村"
+      },
+      {
+          "adminareaid": "3205830041",
+          "adminareaname": "大公村综办治"
+      },
+      {
+          "adminareaid": "320583025D",
+          "adminareaname": "大市村(社区)"
+      },
+      {
+          "adminareaid": "3205830073",
+          "adminareaname": "大潭村"
+      },
+      {
+          "adminareaid": "3205830072",
+          "adminareaname": "大唐村 "
+      },
+      {
+          "adminareaid": "3205830223",
+          "adminareaname": "大通村"
+      },
+      {
+          "adminareaid": "3205830051",
+          "adminareaname": "大同社区"
+      },
+      {
+          "adminareaid": "3205830037",
+          "adminareaname": "大西门社区居委"
+      },
+      {
+          "adminareaid": "3205830331",
+          "adminareaname": "大学城社区"
+      },
+      {
+          "adminareaid": "3205830047",
+          "adminareaname": "大渔村综办治"
+      },
+      {
+          "adminareaid": "320583004J",
+          "adminareaname": "大渔社区居委会"
+      },
+      {
+          "adminareaid": "3205830259",
+          "adminareaname": "大直村"
+      },
+      {
+          "adminareaid": "320583005A",
+          "adminareaname": "大众村村委"
+      },
+      {
+          "adminareaid": "320583024I",
+          "adminareaname": "淀湖社区"
+      },
+      {
+          "adminareaid": "3205830244",
+          "adminareaname": "淀辉锦园社区"
+      },
+      {
+          "adminareaid": "3205830240",
+          "adminareaname": "淀山湖派出所"
+      },
+      {
+          "adminareaid": "3205830241",
+          "adminareaname": "淀山湖社区"
+      },
+      {
+          "adminareaid": "320583030A",
+          "adminareaname": "蝶湖湾社区"
+      },
+      {
+          "adminareaid": "3205830111",
+          "adminareaname": "东方村"
+      },
+      {
+          "adminareaid": "3205830298",
+          "adminareaname": "东门社区"
+      },
+      {
+          "adminareaid": "3205830206",
+          "adminareaname": "东明村"
+      },
+      {
+          "adminareaid": "3205830315",
+          "adminareaname": "东星社区"
+      },
+      {
+          "adminareaid": "3205830125",
+          "adminareaname": "东阳澄湖村"
+      },
+      {
+          "adminareaid": "320583012D",
+          "adminareaname": "东岳村"
+      },
+      {
+          "adminareaid": "3205830123",
+          "adminareaname": "东岳村警务站"
+      },
+      {
+          "adminareaid": "3205830157",
+          "adminareaname": "东泾村"
+      },
+      {
+          "adminareaid": "3205830289",
+          "adminareaname": "东浜村"
+      },
+      {
+          "adminareaid": "320583016B",
+          "adminareaname": "杜桥村村委"
+      },
+      {
+          "adminareaid": "3205830246",
+          "adminareaname": "度城村"
+      },
+      {
+          "adminareaid": "320583024K",
+          "adminareaname": "度假区社区"
+      },
+      {
+          "adminareaid": "320583012G",
+          "adminareaname": "方港村"
+      },
+      {
+          "adminareaid": "3205830052",
+          "adminareaname": "枫景苑社区 "
+      },
+      {
+          "adminareaid": "320583015G",
+          "adminareaname": "枫浜社区居民委员会"
+      },
+      {
+          "adminareaid": "320583012C",
+          "adminareaname": "凤凰村"
+      },
+      {
+          "adminareaid": "3205830286",
+          "adminareaname": "复兴村"
+      },
+      {
+          "adminareaid": "3205830086",
+          "adminareaname": "富华社区"
+      },
+      {
+          "adminareaid": "320583024G",
+          "adminareaname": "富力湾天力建筑公司"
+      },
+      {
+          "adminareaid": "3205830319",
+          "adminareaname": "富士康社区"
+      },
+      {
+          "adminareaid": "320583005H",
+          "adminareaname": "富智康社区"
+      },
+      {
+          "adminareaid": "3205830063",
+          "adminareaname": "干家甸村"
+      },
+      {
+          "adminareaid": "3205830036",
+          "adminareaname": "高板桥社区居委"
+      },
+      {
+          "adminareaid": "3205830283",
+          "adminareaname": "高勇村"
+      },
+      {
+          "adminareaid": "3205830045",
+          "adminareaname": "共青村综治办"
+      },
+      {
+          "adminareaid": "320583004D",
+          "adminareaname": "共青社区"
+      },
+      {
+          "adminareaid": "3205830326",
+          "adminareaname": "古南警务室"
+      },
+      {
+          "adminareaid": "320583007N",
+          "adminareaname": "古镇社区居委会"
+      },
+      {
+          "adminareaid": "320583024H",
+          "adminareaname": "古鳌电子"
+      },
+      {
+          "adminareaid": "320583006G",
+          "adminareaname": "顾家浜村 "
+      },
+      {
+          "adminareaid": "320583032D",
+          "adminareaname": "观澜社区居委会"
+      },
+      {
+          "adminareaid": "320583016A",
+          "adminareaname": "广福村村委"
+      },
+      {
+          "adminareaid": "3205830119",
+          "adminareaname": "桂冠社区"
+      },
+      {
+          "adminareaid": "3205830163",
+          "adminareaname": "海峰社区"
+      },
+      {
+          "adminareaid": "320583014C",
+          "adminareaname": "合丰村"
+      },
+      {
+          "adminareaid": "3205830291",
+          "adminareaname": "合兴社区"
+      },
+      {
+          "adminareaid": "320583021C",
+          "adminareaname": "河寸泾居民委员会"
+      },
+      {
+          "adminareaid": "320583020D",
+          "adminareaname": "横娄村"
+      },
+      {
+          "adminareaid": "320583015E",
+          "adminareaname": "横墅江社区"
+      },
+      {
+          "adminareaid": "3205830323",
+          "adminareaname": "横漕警务室"
+      },
+      {
+          "adminareaid": "3205830048",
+          "adminareaname": "虹桥社区居委"
+      },
+      {
+          "adminareaid": "320583003E",
+          "adminareaname": "红峰社区居委"
+      },
+      {
+          "adminareaid": "320583004B",
+          "adminareaname": "红旗社区居委 "
+      },
+      {
+          "adminareaid": "320583006M",
+          "adminareaname": "红霞村 "
+      },
+      {
+          "adminareaid": "320583024A",
+          "adminareaname": "红星村"
+      },
+      {
+          "adminareaid": "3205830129",
+          "adminareaname": "红杨河村"
+      },
+      {
+          "adminareaid": "3205830189",
+          "adminareaname": "湖滨花园 "
+      },
+      {
+          "adminareaid": "3205830151",
+          "adminareaname": "花安社区"
+      },
+      {
+          "adminareaid": "3205830325",
+          "adminareaname": "花桥规建局"
+      },
+      {
+          "adminareaid": "320583015B",
+          "adminareaname": "花桥规建局"
+      },
+      {
+          "adminareaid": "3205830150",
+          "adminareaname": "花桥派出所"
+      },
+      {
+          "adminareaid": "3205830156",
+          "adminareaname": "花桥社区"
+      },
+      {
+          "adminareaid": "320583015A",
+          "adminareaname": "花桥市镇"
+      },
+      {
+          "adminareaid": "3205830154",
+          "adminareaname": "花溪社区"
+      },
+      {
+          "adminareaid": "3205830255",
+          "adminareaname": "花园村"
+      },
+      {
+          "adminareaid": "3205830161",
+          "adminareaname": "花园社区"
+      },
+      {
+          "adminareaid": "3205830231",
+          "adminareaname": "华强社区"
+      },
+      {
+          "adminareaid": "320583004L",
+          "adminareaname": "华润社区居委会"
+      },
+      {
+          "adminareaid": "320583012F",
+          "adminareaname": "华社村"
+      },
+      {
+          "adminareaid": "320583012K",
+          "adminareaname": "环湖村"
+      },
+      {
+          "adminareaid": "320583031C",
+          "adminareaname": "皇仓泾社区"
+      },
+      {
+          "adminareaid": "3205830164",
+          "adminareaname": "火炬社区"
+      },
+      {
+          "adminareaid": "320583030C",
+          "adminareaname": "吉星社区居委会"
+      },
+      {
+          "adminareaid": "3205830155",
+          "adminareaname": "集善社区"
+      },
+      {
+          "adminareaid": "3205830068",
+          "adminareaname": "计家墩村 "
+      },
+      {
+          "adminareaid": "3205830224",
+          "adminareaname": "建通村"
+      },
+      {
+          "adminareaid": "320583025G",
+          "adminareaname": "姜杭村"
+      },
+      {
+          "adminareaid": "3205830056",
+          "adminareaname": "姜巷村村委 "
+      },
+      {
+          "adminareaid": "320583004C",
+          "adminareaname": "江浦村村委"
+      },
+      {
+          "adminareaid": "320583007Z",
+          "adminareaname": "教育局采集点"
+      },
+      {
+          "adminareaid": "320583016Z",
+          "adminareaname": "教育局采集点 "
+      },
+      {
+          "adminareaid": "320583001Z",
+          "adminareaname": "教育局采集点 "
+      },
+      {
+          "adminareaid": "3205830158",
+          "adminareaname": "金城村"
+      },
+      {
+          "adminareaid": "3205830254",
+          "adminareaname": "金华村"
+      },
+      {
+          "adminareaid": "3205830245",
+          "adminareaname": "金家庄村"
+      },
+      {
+          "adminareaid": "320583011B",
+          "adminareaname": "金威社区"
+      },
+      {
+          "adminareaid": "320583025W",
+          "adminareaname": "锦和社区"
+      },
+      {
+          "adminareaid": "3205830082",
+          "adminareaname": "锦华园"
+      },
+      {
+          "adminareaid": "320583006L",
+          "adminareaname": "锦溪花园社区"
+      },
+      {
+          "adminareaid": "3205830060",
+          "adminareaname": "锦溪派出所"
+      },
+      {
+          "adminareaid": "3205830308",
+          "adminareaname": "精密机械产业园服务区"
+      },
+      {
+          "adminareaid": "3205830058",
+          "adminareaname": "景村村村委 "
+      },
+      {
+          "adminareaid": "320583015D",
+          "adminareaname": "聚福社区"
+      },
+      {
+          "adminareaid": "320583015F",
+          "adminareaname": "聚杨社区居民委员会"
+      },
+      {
+          "adminareaid": "3205830116",
+          "adminareaname": "康泾湾社区"
+      },
+      {
+          "adminareaid": "3205830301",
+          "adminareaname": "孔巷社区"
+      },
+      {
+          "adminareaid": "3205830341",
+          "adminareaname": "孔巷社区"
+      },
+      {
+          "adminareaid": "320583005D",
+          "adminareaname": "昆山乙盛机械工业有限公司"
+      },
+      {
+          "adminareaid": "320583030D",
+          "adminareaname": "昆苑社区居委会"
+      },
+      {
+          "adminareaid": "3205830215",
+          "adminareaname": "乐和社区"
+      },
+      {
+          "adminareaid": "3205830217",
+          "adminareaname": "乐康社区"
+      },
+      {
+          "adminareaid": "3205830216",
+          "adminareaname": "乐善社区"
+      },
+      {
+          "adminareaid": "3205830218",
+          "adminareaname": "乐文社区"
+      },
+      {
+          "adminareaid": "320583003B",
+          "adminareaname": "里厍社区居委"
+      },
+      {
+          "adminareaid": "320583011D",
+          "adminareaname": "丽德社区"
+      },
+      {
+          "adminareaid": "3205830085",
+          "adminareaname": "丽华社区"
+      },
+      {
+          "adminareaid": "3205830243",
+          "adminareaname": "利民社区"
+      },
+      {
+          "adminareaid": "3205830168",
+          "adminareaname": "力量社区"
+      },
+      {
+          "adminareaid": "320583006F",
+          "adminareaname": "联湖村"
+      },
+      {
+          "adminareaid": "320583012E",
+          "adminareaname": "联民村"
+      },
+      {
+          "adminareaid": "320583025M",
+          "adminareaname": "林庄村"
+      },
+      {
+          "adminareaid": "320583012M",
+          "adminareaname": "临湖社区居委会"
+      },
+      {
+          "adminareaid": "3205830281",
+          "adminareaname": "龙风村"
+      },
+      {
+          "adminareaid": "3205830127",
+          "adminareaname": "龙潭湖村"
+      },
+      {
+          "adminareaid": "3205830287",
+          "adminareaname": "龙亭村"
+      },
+      {
+          "adminareaid": "3205830144",
+          "adminareaname": "龙王社区"
+      },
+      {
+          "adminareaid": "320583004F",
+          "adminareaname": "娄江社区"
+      },
+      {
+          "adminareaid": "3205830313",
+          "adminareaname": "娄苑社区"
+      },
+      {
+          "adminareaid": "3205830145",
+          "adminareaname": "陆家村"
+      },
+      {
+          "adminareaid": "3205830140",
+          "adminareaname": "陆家派出所"
+      },
+      {
+          "adminareaid": "320583023B",
+          "adminareaname": "陆家桥村"
+      },
+      {
+          "adminareaid": "3205830141",
+          "adminareaname": "陆家社区"
+      },
+      {
+          "adminareaid": "320583014D",
+          "adminareaname": "陆家社区"
+      },
+      {
+          "adminareaid": "320583020E",
+          "adminareaname": "陆桥村"
+      },
+      {
+          "adminareaid": "3205830209",
+          "adminareaname": "陆杨社区"
+      },
+      {
+          "adminareaid": "320583006E",
+          "adminareaname": "陆泾村 "
+      },
+      {
+          "adminareaid": "3205830328",
+          "adminareaname": "绿地警务室"
+      },
+      {
+          "adminareaid": "3205830329",
+          "adminareaname": "绿地警务室"
+      },
+      {
+          "adminareaid": "3205830128",
+          "adminareaname": "马料江村"
+      },
+      {
+          "adminareaid": "320583007J",
+          "adminareaname": "马路桥社区"
+      },
+      {
+          "adminareaid": "320583022C",
+          "adminareaname": "马塘村"
+      },
+      {
+          "adminareaid": "3205830237",
+          "adminareaname": "马巷村"
+      },
+      {
+          "adminareaid": "320583006C",
+          "adminareaname": "马援庄村 "
+      },
+      {
+          "adminareaid": "3205830057",
+          "adminareaname": "马庄村村委"
+      },
+      {
+          "adminareaid": "3205830126",
+          "adminareaname": "茅沙塘村"
+      },
+      {
+          "adminareaid": "3205830117",
+          "adminareaname": "毛厍社区"
+      },
+      {
+          "adminareaid": "320583005I",
+          "adminareaname": "美丰社区 "
+      },
+      {
+          "adminareaid": "3205830087",
+          "adminareaname": "美华"
+      },
+      {
+          "adminareaid": "3205830083",
+          "adminareaname": "美华社区"
+      },
+      {
+          "adminareaid": "3205830061",
+          "adminareaname": "孟子浜村"
+      },
+      {
+          "adminareaid": "3205830043",
+          "adminareaname": "庙灯村综治办"
+      },
+      {
+          "adminareaid": "320583024C",
+          "adminareaname": "民和村"
+      },
+      {
+          "adminareaid": "320583004M",
+          "adminareaname": "明珠社区居委会"
+      },
+      {
+          "adminareaid": "3205830118",
+          "adminareaname": "睦和社区"
+      },
+      {
+          "adminareaid": "320583025I",
+          "adminareaname": "南港社区"
+      },
+      {
+          "adminareaid": "320583028A",
+          "adminareaname": "南湖村"
+      },
+      {
+          "adminareaid": "320583025S",
+          "adminareaname": "南吉山村"
+      },
+      {
+          "adminareaid": "320583007A",
+          "adminareaname": "南吉山村(撤销) "
+      },
+      {
+          "adminareaid": "320583006J",
+          "adminareaname": "南前村"
+      },
+      {
+          "adminareaid": "320583021A",
+          "adminareaname": "南桥社区"
+      },
+      {
+          "adminareaid": "3205830076",
+          "adminareaname": "南湾村 "
+      },
+      {
+          "adminareaid": "320583005C",
+          "adminareaname": "南星渎村 "
+      },
+      {
+          "adminareaid": "320583025F",
+          "adminareaname": "南姚村"
+      },
+      {
+          "adminareaid": "3205830049",
+          "adminareaname": "南渔村村委"
+      },
+      {
+          "adminareaid": "3205830238",
+          "adminareaname": "年沙村"
+      },
+      {
+          "adminareaid": "320583007O",
+          "adminareaname": "年沙社区居民委员会"
+      },
+      {
+          "adminareaid": "3205830018",
+          "adminareaname": "盆渎村社区"
+      },
+      {
+          "adminareaid": "3205830225",
+          "adminareaname": "蓬北村"
+      },
+      {
+          "adminareaid": "3205830220",
+          "adminareaname": "蓬朗派出所"
+      },
+      {
+          "adminareaid": "3205830221",
+          "adminareaname": "蓬朗社区"
+      },
+      {
+          "adminareaid": "3205830226",
+          "adminareaname": "蓬南村"
+      },
+      {
+          "adminareaid": "3205830159",
+          "adminareaname": "蓬善村"
+      },
+      {
+          "adminareaid": "3205830222",
+          "adminareaname": "蓬曦园社区"
+      },
+      {
+          "adminareaid": "3205830211",
+          "adminareaname": "平巷社区"
+      },
+      {
+          "adminareaid": "3205830204",
+          "adminareaname": "平庄村"
+      },
+      {
+          "adminareaid": "3205830257",
+          "adminareaname": "七桥村"
+      },
+      {
+          "adminareaid": "3205830288",
+          "adminareaname": "祁浜村"
+      },
+      {
+          "adminareaid": "3205830070",
+          "adminareaname": "千灯派出所"
+      },
+      {
+          "adminareaid": "320583029C",
+          "adminareaname": "千叶公寓"
+      },
+      {
+          "adminareaid": "320583007E",
+          "adminareaname": "前进村 "
+      },
+      {
+          "adminareaid": "320583025V",
+          "adminareaname": "亲和社区"
+      },
+      {
+          "adminareaid": "320583007M",
+          "adminareaname": "秦峰社区 "
+      },
+      {
+          "adminareaid": "3205830080",
+          "adminareaname": "青阳派出所"
+      },
+      {
+          "adminareaid": "320583005E",
+          "adminareaname": "青淞村 "
+      },
+      {
+          "adminareaid": "3205830054",
+          "adminareaname": "青淞社区 "
+      },
+      {
+          "adminareaid": "3205830044",
+          "adminareaname": "青淞社区警务站"
+      },
+      {
+          "adminareaid": "3205830316",
+          "adminareaname": "清水港社区"
+      },
+      {
+          "adminareaid": "320583028C",
+          "adminareaname": "全功能社区"
+      },
+      {
+          "adminareaid": "3205830282",
+          "adminareaname": "全旺村"
+      },
+      {
+          "adminareaid": "320583005B",
+          "adminareaname": "群星村村委"
+      },
+      {
+          "adminareaid": "3205830302",
+          "adminareaname": "群益社区"
+      },
+      {
+          "adminareaid": "3205830305",
+          "adminareaname": "群益社区二"
+      },
+      {
+          "adminareaid": "3205830184",
+          "adminareaname": "荣亭村 "
+      },
+      {
+          "adminareaid": "3205830064",
+          "adminareaname": "阮家浜村 "
+      },
+      {
+          "adminareaid": "320583025B",
+          "adminareaname": "三家村"
+      },
+      {
+          "adminareaid": "320583006D",
+          "adminareaname": "三联村"
+      },
+      {
+          "adminareaid": "320583007C",
+          "adminareaname": "善浦村 "
+      },
+      {
+          "adminareaid": "3205830152",
+          "adminareaname": "上岸村"
+      },
+      {
+          "adminareaid": "320583006N",
+          "adminareaname": "上塘社区"
+      },
+      {
+          "adminareaid": "320583025E",
+          "adminareaname": "尚明甸村"
+      },
+      {
+          "adminareaid": "3205830142",
+          "adminareaname": "邵村社区"
+      },
+      {
+          "adminareaid": "3205830227",
+          "adminareaname": "邵泾村"
+      },
+      {
+          "adminareaid": "3205830147",
+          "adminareaname": "神童泾村"
+      },
+      {
+          "adminareaid": "3205830079",
+          "adminareaname": "盛家埭村"
+      },
+      {
+          "adminareaid": "320583006K",
+          "adminareaname": "盛塘村 "
+      },
+      {
+          "adminareaid": "3205830212",
+          "adminareaname": "盛庄村"
+      },
+      {
+          "adminareaid": "3205830169",
+          "adminareaname": "胜利社区"
+      },
+      {
+          "adminareaid": "3205830078",
+          "adminareaname": "施家泾村 "
+      },
+      {
+          "adminareaid": "3205830233",
+          "adminareaname": "石北村"
+      },
+      {
+          "adminareaid": "320583022A",
+          "adminareaname": "石牌村"
+      },
+      {
+          "adminareaid": "3205830232",
+          "adminareaname": "石浦村"
+      },
+      {
+          "adminareaid": "3205830230",
+          "adminareaname": "石浦派出所"
+      },
+      {
+          "adminareaid": "320583030E",
+          "adminareaname": "石桥社区居委会"
+      },
+      {
+          "adminareaid": "3205830242",
+          "adminareaname": "石洋河社区"
+      },
+      {
+          "adminareaid": "320583032B",
+          "adminareaname": "时代社区"
+      },
+      {
+          "adminareaid": "3205830207",
+          "adminareaname": "市北村"
+      },
+      {
+          "adminareaid": "3205830188",
+          "adminareaname": "市镇南片"
+      },
+      {
+          "adminareaid": "320583023C",
+          "adminareaname": "市镇社区居委会"
+      },
+      {
+          "adminareaid": "320583007H",
+          "adminareaname": "市政二居委"
+      },
+      {
+          "adminareaid": "320583007L",
+          "adminareaname": "市政三居委"
+      },
+      {
+          "adminareaid": "320583007G",
+          "adminareaname": "市政一居委 "
+      },
+      {
+          "adminareaid": "320583024D",
+          "adminareaname": "双护村"
+      },
+      {
+          "adminareaid": "3205830229",
+          "adminareaname": "双林村"
+      },
+      {
+          "adminareaid": "3205830285",
+          "adminareaname": "双庙村"
+      },
+      {
+          "adminareaid": "3205830153",
+          "adminareaname": "顺扬村"
+      },
+      {
+          "adminareaid": "320583004I",
+          "adminareaname": "思常社区"
+      },
+      {
+          "adminareaid": "3205830293",
+          "adminareaname": "司徒社区"
+      },
+      {
+          "adminareaid": "320583016F",
+          "adminareaname": "唐龙村村委"
+      },
+      {
+          "adminareaid": "320583007D",
+          "adminareaname": "陶家桥村"
+      },
+      {
+          "adminareaid": "3205830327",
+          "adminareaname": "天福警务室"
+      },
+      {
+          "adminareaid": "320583015C",
+          "adminareaname": "天福社区"
+      },
+      {
+          "adminareaid": "3205830038",
+          "adminareaname": "亭林街道"
+      },
+      {
+          "adminareaid": "320583003A",
+          "adminareaname": "亭林社区居委"
+      },
+      {
+          "adminareaid": "3205830181",
+          "adminareaname": "通澄村"
+      },
+      {
+          "adminareaid": "3205830299",
+          "adminareaname": "同丰社区"
+      },
+      {
+          "adminareaid": "3205830310",
+          "adminareaname": "同心派出所"
+      },
+      {
+          "adminareaid": "3205830311",
+          "adminareaname": "同心社区"
+      },
+      {
+          "adminareaid": "320583030G",
+          "adminareaname": "伟业社区居委会"
+      },
+      {
+          "adminareaid": "3205830065",
+          "adminareaname": "卫星村"
+      },
+      {
+          "adminareaid": "3205830256",
+          "adminareaname": "吴家村"
+      },
+      {
+          "adminareaid": "320583007I",
+          "adminareaname": "吴桥村 "
+      },
+      {
+          "adminareaid": "3205830050",
+          "adminareaname": "吴淞江派出所"
+      },
+      {
+          "adminareaid": "320583012I",
+          "adminareaname": "武城村"
+      },
+      {
+          "adminareaid": "320583012A",
+          "adminareaname": "武神潭村"
+      },
+      {
+          "adminareaid": "320583016C",
+          "adminareaname": "五联村村委"
+      },
+      {
+          "adminareaid": "3205830294",
+          "adminareaname": "西河社区"
+      },
+      {
+          "adminareaid": "320583007B",
+          "adminareaname": "西横村"
+      },
+      {
+          "adminareaid": "320583012J",
+          "adminareaname": "西南村"
+      },
+      {
+          "adminareaid": "3205830019",
+          "adminareaname": "西桥社区"
+      },
+      {
+          "adminareaid": "3205830075",
+          "adminareaname": "西宿村"
+      },
+      {
+          "adminareaid": "3205830295",
+          "adminareaname": "西湾社区"
+      },
+      {
+          "adminareaid": "320583006I",
+          "adminareaname": "狭港村 "
+      },
+      {
+          "adminareaid": "320583018A",
+          "adminareaname": "下塘南片"
+      },
+      {
+          "adminareaid": "320583006P",
+          "adminareaname": "下塘社区 "
+      },
+      {
+          "adminareaid": "320583012H",
+          "adminareaname": "夏东村"
+      },
+      {
+          "adminareaid": "3205830213",
+          "adminareaname": "夏驾社区"
+      },
+      {
+          "adminareaid": "3205830148",
+          "adminareaname": "夏桥村"
+      },
+      {
+          "adminareaid": "320583024J",
+          "adminareaname": "香馨社区居委会"
+      },
+      {
+          "adminareaid": "3205830162",
+          "adminareaname": "萧林社区"
+      },
+      {
+          "adminareaid": "320583022B",
+          "adminareaname": "小连村"
+      },
+      {
+          "adminareaid": "3205830035",
+          "adminareaname": "小桃园社区居委"
+      },
+      {
+          "adminareaid": "3205830011",
+          "adminareaname": "小渔岸社区居委"
+      },
+      {
+          "adminareaid": "320583020F",
+          "adminareaname": "小泾村"
+      },
+      {
+          "adminareaid": "3205830074",
+          "adminareaname": "肖市村 "
+      },
+      {
+          "adminareaid": "3205830239",
+          "adminareaname": "歇马桥村"
+      },
+      {
+          "adminareaid": "3205830202",
+          "adminareaname": "斜塘村"
+      },
+      {
+          "adminareaid": "3205830322",
+          "adminareaname": "新安警务室"
+      },
+      {
+          "adminareaid": "320583032A",
+          "adminareaname": "新安警务室中宇办证点"
+      },
+      {
+          "adminareaid": "3205830314",
+          "adminareaname": "新北社区"
+      },
+      {
+          "adminareaid": "320583005F",
+          "adminareaname": "新城域社区"
+      },
+      {
+          "adminareaid": "320583016E",
+          "adminareaname": "新江村村委"
+      },
+      {
+          "adminareaid": "320583004E",
+          "adminareaname": "新江南康居园"
+      },
+      {
+          "adminareaid": "3205830124",
+          "adminareaname": "新开河村"
+      },
+      {
+          "adminareaid": "320583003D",
+          "adminareaname": "新昆社区居委"
+      },
+      {
+          "adminareaid": "3205830318",
+          "adminareaname": "新乐村村委"
+      },
+      {
+          "adminareaid": "320583031B",
+          "adminareaname": "新乐融城社区"
+      },
+      {
+          "adminareaid": "320583025K",
+          "adminareaname": "新龙村"
+      },
+      {
+          "adminareaid": "320583005G",
+          "adminareaname": "新南村 "
+      },
+      {
+          "adminareaid": "3205830053",
+          "adminareaname": "新南社区"
+      },
+      {
+          "adminareaid": "3205830324",
+          "adminareaname": "新浦警务室"
+      },
+      {
+          "adminareaid": "320583016D",
+          "adminareaname": "新生村村委"
+      },
+      {
+          "adminareaid": "3205830234",
+          "adminareaname": "新潭村"
+      },
+      {
+          "adminareaid": "3205830253",
+          "adminareaname": "新塘村"
+      },
+      {
+          "adminareaid": "320583025U",
+          "adminareaname": "新吴社区"
+      },
+      {
+          "adminareaid": "320583005J",
+          "adminareaname": "新溪社区"
+      },
+      {
+          "adminareaid": "320583025T",
+          "adminareaname": "新巷社区"
+      },
+      {
+          "adminareaid": "320583024F",
+          "adminareaname": "新杨村"
+      },
+      {
+          "adminareaid": "3205830031",
+          "adminareaname": "新阳社区居委"
+      },
+      {
+          "adminareaid": "3205830112",
+          "adminareaname": "新镇村"
+      },
+      {
+          "adminareaid": "3205830110",
+          "adminareaname": "新镇派出所"
+      },
+      {
+          "adminareaid": "320583011C",
+          "adminareaname": "新镇社区"
+      },
+      {
+          "adminareaid": "320583023A",
+          "adminareaname": "新泾村"
+      },
+      {
+          "adminareaid": "320583020A",
+          "adminareaname": "新瑭村"
+      },
+      {
+          "adminareaid": "320583005K",
+          "adminareaname": "星辰社区 "
+      },
+      {
+          "adminareaid": "320583004A",
+          "adminareaname": "星海社区居委"
+      },
+      {
+          "adminareaid": "320583025J",
+          "adminareaname": "星金村"
+      },
+      {
+          "adminareaid": "3205830321",
+          "adminareaname": "星浜警务室"
+      },
+      {
+          "adminareaid": "3205830247",
+          "adminareaname": "兴复村"
+      },
+      {
+          "adminareaid": "3205830297",
+          "adminareaname": "绣东社区"
+      },
+      {
+          "adminareaid": "3205830296",
+          "adminareaname": "绣衣社区"
+      },
+      {
+          "adminareaid": "3205830017",
+          "adminareaname": "需浦社区"
+      },
+      {
+          "adminareaid": "320583020B",
+          "adminareaname": "许家村"
+      },
+      {
+          "adminareaid": "3205830016",
+          "adminareaname": "严家角社区"
+      },
+      {
+          "adminareaid": "3205830071",
+          "adminareaname": "炎武社区"
+      },
+      {
+          "adminareaid": "3205830059",
+          "adminareaname": "燕桥浜村村委"
+      },
+      {
+          "adminareaid": "320583016G",
+          "adminareaname": "杨林社区"
+      },
+      {
+          "adminareaid": "320583024E",
+          "adminareaname": "杨湘泾村"
+      },
+      {
+          "adminareaid": "3205830182",
+          "adminareaname": "阳澄湖村 "
+      },
+      {
+          "adminareaid": "320583011A",
+          "adminareaname": "阳光社区"
+      },
+      {
+          "adminareaid": "320583004K",
+          "adminareaname": "叶菏社区居委会"
+      },
+      {
+          "adminareaid": "320583025O",
+          "adminareaname": "银和社区居民委员会"
+      },
+      {
+          "adminareaid": "3205830203",
+          "adminareaname": "永共村"
+      },
+      {
+          "adminareaid": "3205830166",
+          "adminareaname": "永盛社区"
+      },
+      {
+          "adminareaid": "3205830248",
+          "adminareaname": "永新村"
+      },
+      {
+          "adminareaid": "3205830081",
+          "adminareaname": "永馨家园"
+      },
+      {
+          "adminareaid": "3205830236",
+          "adminareaname": "余项村"
+      },
+      {
+          "adminareaid": "320583003G",
+          "adminareaname": "玉峰社区居委"
+      },
+      {
+          "adminareaid": "320583029A",
+          "adminareaname": "玉龙社区"
+      },
+      {
+          "adminareaid": "320583012L",
+          "adminareaname": "玉石社区"
+      },
+      {
+          "adminareaid": "3205830143",
+          "adminareaname": "育才社区 "
+      },
+      {
+          "adminareaid": "320583006A",
+          "adminareaname": "袁甸村 "
+      },
+      {
+          "adminareaid": "3205830012",
+          "adminareaname": "跃进路社区居委"
+      },
+      {
+          "adminareaid": "3205830284",
+          "adminareaname": "云南村"
+      },
+      {
+          "adminareaid": "3205830228",
+          "adminareaname": "增辉村"
+      },
+      {
+          "adminareaid": "3205830219",
+          "adminareaname": "章基社区"
+      },
+      {
+          "adminareaid": "3205830067",
+          "adminareaname": "张家厍村"
+      },
+      {
+          "adminareaid": "3205830250",
+          "adminareaname": "张浦派出所"
+      },
+      {
+          "adminareaid": "3205830251",
+          "adminareaname": "张浦社区"
+      },
+      {
+          "adminareaid": "320583025C",
+          "adminareaname": "张浦所大市警务站"
+      },
+      {
+          "adminareaid": "320583025H",
+          "adminareaname": "张浦所南港警务站"
+      },
+      {
+          "adminareaid": "3205830258",
+          "adminareaname": "赵陵村"
+      },
+      {
+          "adminareaid": "3205830042",
+          "adminareaname": "赵厍村综办治"
+      },
+      {
+          "adminareaid": "320583028B",
+          "adminareaname": "贞丰里社区"
+      },
+      {
+          "adminareaid": "3205830032",
+          "adminareaname": "震川社区居委"
+      },
+      {
+          "adminareaid": "3205830252",
+          "adminareaname": "振苏社区"
+      },
+      {
+          "adminareaid": "3205830015",
+          "adminareaname": "正阳路社区居委"
+      },
+      {
+          "adminareaid": "3205830183",
+          "adminareaname": "正仪村"
+      },
+      {
+          "adminareaid": "3205830180",
+          "adminareaname": "正仪派出所"
+      },
+      {
+          "adminareaid": "3205830077",
+          "adminareaname": "支浦村"
+      },
+      {
+          "adminareaid": "3205830304",
+          "adminareaname": "中华园街道办事处"
+      },
+      {
+          "adminareaid": "3205830300",
+          "adminareaname": "中华园派出所"
+      },
+      {
+          "adminareaid": "3205830235",
+          "adminareaname": "中节村"
+      },
+      {
+          "adminareaid": "3205830114",
+          "adminareaname": "中乐社区"
+      },
+      {
+          "adminareaid": "320583006H",
+          "adminareaname": "周家浜村"
+      },
+      {
+          "adminareaid": "3205830200",
+          "adminareaname": "周市派出所"
+      },
+      {
+          "adminareaid": "3205830201",
+          "adminareaname": "周市社区"
+      },
+      {
+          "adminareaid": "3205830208",
+          "adminareaname": "周市所陆杨警务站"
+      },
+      {
+          "adminareaid": "320583025A",
+          "adminareaname": "周巷村"
+      },
+      {
+          "adminareaid": "3205830280",
+          "adminareaname": "周庄派出所"
+      },
+      {
+          "adminareaid": "3205830292",
+          "adminareaname": "珠江社区"
+      },
+      {
+          "adminareaid": "3205830113",
+          "adminareaname": "珠泾村"
+      },
+      {
+          "adminareaid": "3205830205",
+          "adminareaname": "朱家湾村"
+      },
+      {
+          "adminareaid": "320583006B",
+          "adminareaname": "朱浜村"
+      },
+      {
+          "adminareaid": "320583007F",
+          "adminareaname": "庄巷村"
+      },
+      {
+          "adminareaid": "320583003F",
+          "adminareaname": "状元泾社区居委"
+      },
+      {
+          "adminareaid": "3205830317",
+          "adminareaname": "紫藤社区"
+      },
+      {
+          "adminareaid": "3205830312",
+          "adminareaname": "紫竹社区"
+      },
+      {
+          "adminareaid": "3205830342",
+          "adminareaname": "综保区"
+      },
+      {
+          "adminareaid": "3205830149",
+          "adminareaname": "邹家角村"
+      },
+      {
+          "adminareaid": "320583021B",
+          "adminareaname": "茜步泾居民委员会"
+      },
+      {
+          "adminareaid": "3205830055",
+          "adminareaname": "茗景苑社区"
+      },
+      {
+          "adminareaid": "320583016H",
+          "adminareaname": "怡和社区"
+      },
+      {
+          "adminareaid": "320583014A",
+          "adminareaname": "泗桥村"
+      },
+      {
+          "adminareaid": "320583032C",
+          "adminareaname": "泗泾社区居委会"
+      },
+      {
+          "adminareaid": "3205830046",
+          "adminareaname": "泾河村综治办"
+      },
+      {
+          "adminareaid": "320583004G",
+          "adminareaname": "泾河社区"
+      },
+      {
+          "adminareaid": "320583007K",
+          "adminareaname": "淞南社区 "
+      },
+      {
+          "adminareaid": "3205830167",
+          "adminareaname": "濂园社区"
+      },
+      {
+          "adminareaid": "3205830187",
+          "adminareaname": "桦晟 "
+      },
+      {
+          "adminareaid": "320583029B",
+          "adminareaname": "樾城社区"
+      },
+      {
+          "adminareaid": "320583024B",
+          "adminareaname": "晟泰村"
+      },
+      {
+          "adminareaid": "3205830069",
+          "adminareaname": "虬泽村"
+      }
+  ],
+  "timestamp": 1691717328915
+}

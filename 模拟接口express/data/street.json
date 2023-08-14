@@ -1,0 +1,1643 @@
+{
+  "resultDesc": "操作成功！",
+  "resultCode": 1,
+  "data": [
+      {
+          "streetcode": "3205830249",
+          "streetname": "安上村"
+      },
+      {
+          "streetcode": "320583025N",
+          "streetname": "安头村"
+      },
+      {
+          "streetcode": "3205830121",
+          "streetname": "巴城湖村"
+      },
+      {
+          "streetcode": "3205830120",
+          "streetname": "巴城派出所"
+      },
+      {
+          "streetcode": "320583012B",
+          "streetname": "巴城社区"
+      },
+      {
+          "streetcode": "3205830122",
+          "streetname": "巴城所石牌警务站"
+      },
+      {
+          "streetcode": "3205830039",
+          "streetname": "白马泾社区居委"
+      },
+      {
+          "streetcode": "320583025L",
+          "streetname": "白米村"
+      },
+      {
+          "streetcode": "3205830084",
+          "streetname": "白墅小区"
+      },
+      {
+          "streetcode": "3205830115",
+          "streetname": "白塘社区"
+      },
+      {
+          "streetcode": "320583004H",
+          "streetname": "柏芦综合市场"
+      },
+      {
+          "streetcode": "3205830033",
+          "streetname": "柏庐社区居委"
+      },
+      {
+          "streetcode": "320583030B",
+          "streetname": "宝衡社区居委会"
+      },
+      {
+          "streetcode": "3205830303",
+          "streetname": "宝领社区"
+      },
+      {
+          "streetcode": "3205830062",
+          "streetname": "北管泾村 "
+      },
+      {
+          "streetcode": "320583031A",
+          "streetname": "滨江社区"
+      },
+      {
+          "streetcode": "3205830210",
+          "streetname": "兵希派出所"
+      },
+      {
+          "streetcode": "3205830214",
+          "streetname": "兵希社区"
+      },
+      {
+          "streetcode": "3205830186",
+          "streetname": "并蒂莲社区 "
+      },
+      {
+          "streetcode": "3205830034",
+          "streetname": "采莲社区居委"
+      },
+      {
+          "streetcode": "320583003C",
+          "streetname": "仓基街社区居委"
+      },
+      {
+          "streetcode": "3205830320",
+          "streetname": "曹安派出所"
+      },
+      {
+          "streetcode": "3205830343",
+          "streetname": "产业园社区"
+      },
+      {
+          "streetcode": "3205830290",
+          "streetname": "长江派出所"
+      },
+      {
+          "streetcode": "3205830165",
+          "streetname": "长荣社区"
+      },
+      {
+          "streetcode": "3205830066",
+          "streetname": "长云村 "
+      },
+      {
+          "streetcode": "320583020C",
+          "streetname": "超英村"
+      },
+      {
+          "streetcode": "3205830013",
+          "streetname": "朝阳门社区居委"
+      },
+      {
+          "streetcode": "3205830010",
+          "streetname": "朝阳派出所"
+      },
+      {
+          "streetcode": "3205830014",
+          "streetname": "朝阳新村社区居委"
+      },
+      {
+          "streetcode": "320583014B",
+          "streetname": "车塘村"
+      },
+      {
+          "streetcode": "3205830146",
+          "streetname": "陈巷村"
+      },
+      {
+          "streetcode": "3205830160",
+          "streetname": "城北派出所"
+      },
+      {
+          "streetcode": "3205830040",
+          "streetname": "城西派出所"
+      },
+      {
+          "streetcode": "3205830030",
+          "streetname": "城中派出所"
+      },
+      {
+          "streetcode": "3205830306",
+          "streetname": "出口加工区A区"
+      },
+      {
+          "streetcode": "3205830307",
+          "streetname": "出口加工区B区"
+      },
+      {
+          "streetcode": "3205830309",
+          "streetname": "出口加工园警务站"
+      },
+      {
+          "streetcode": "320583030F",
+          "streetname": "创业社区居委会"
+      },
+      {
+          "streetcode": "3205830185",
+          "streetname": "绰墩山村"
+      },
+      {
+          "streetcode": "3205830041",
+          "streetname": "大公村综办治"
+      },
+      {
+          "streetcode": "320583025D",
+          "streetname": "大市村(社区)"
+      },
+      {
+          "streetcode": "3205830073",
+          "streetname": "大潭村"
+      },
+      {
+          "streetcode": "3205830072",
+          "streetname": "大唐村 "
+      },
+      {
+          "streetcode": "3205830223",
+          "streetname": "大通村"
+      },
+      {
+          "streetcode": "3205830051",
+          "streetname": "大同社区"
+      },
+      {
+          "streetcode": "3205830037",
+          "streetname": "大西门社区居委"
+      },
+      {
+          "streetcode": "3205830331",
+          "streetname": "大学城社区"
+      },
+      {
+          "streetcode": "3205830047",
+          "streetname": "大渔村综办治"
+      },
+      {
+          "streetcode": "320583004J",
+          "streetname": "大渔社区居委会"
+      },
+      {
+          "streetcode": "3205830259",
+          "streetname": "大直村"
+      },
+      {
+          "streetcode": "320583005A",
+          "streetname": "大众村村委"
+      },
+      {
+          "streetcode": "320583024I",
+          "streetname": "淀湖社区"
+      },
+      {
+          "streetcode": "3205830244",
+          "streetname": "淀辉锦园社区"
+      },
+      {
+          "streetcode": "3205830240",
+          "streetname": "淀山湖派出所"
+      },
+      {
+          "streetcode": "3205830241",
+          "streetname": "淀山湖社区"
+      },
+      {
+          "streetcode": "320583030A",
+          "streetname": "蝶湖湾社区"
+      },
+      {
+          "streetcode": "3205830111",
+          "streetname": "东方村"
+      },
+      {
+          "streetcode": "3205830298",
+          "streetname": "东门社区"
+      },
+      {
+          "streetcode": "3205830206",
+          "streetname": "东明村"
+      },
+      {
+          "streetcode": "3205830315",
+          "streetname": "东星社区"
+      },
+      {
+          "streetcode": "3205830125",
+          "streetname": "东阳澄湖村"
+      },
+      {
+          "streetcode": "320583012D",
+          "streetname": "东岳村"
+      },
+      {
+          "streetcode": "3205830123",
+          "streetname": "东岳村警务站"
+      },
+      {
+          "streetcode": "3205830157",
+          "streetname": "东泾村"
+      },
+      {
+          "streetcode": "3205830289",
+          "streetname": "东浜村"
+      },
+      {
+          "streetcode": "320583016B",
+          "streetname": "杜桥村村委"
+      },
+      {
+          "streetcode": "3205830246",
+          "streetname": "度城村"
+      },
+      {
+          "streetcode": "320583024K",
+          "streetname": "度假区社区"
+      },
+      {
+          "streetcode": "320583012G",
+          "streetname": "方港村"
+      },
+      {
+          "streetcode": "3205830052",
+          "streetname": "枫景苑社区 "
+      },
+      {
+          "streetcode": "320583015G",
+          "streetname": "枫浜社区居民委员会"
+      },
+      {
+          "streetcode": "320583012C",
+          "streetname": "凤凰村"
+      },
+      {
+          "streetcode": "3205830286",
+          "streetname": "复兴村"
+      },
+      {
+          "streetcode": "3205830086",
+          "streetname": "富华社区"
+      },
+      {
+          "streetcode": "320583024G",
+          "streetname": "富力湾天力建筑公司"
+      },
+      {
+          "streetcode": "3205830319",
+          "streetname": "富士康社区"
+      },
+      {
+          "streetcode": "320583005H",
+          "streetname": "富智康社区"
+      },
+      {
+          "streetcode": "3205830063",
+          "streetname": "干家甸村"
+      },
+      {
+          "streetcode": "3205830036",
+          "streetname": "高板桥社区居委"
+      },
+      {
+          "streetcode": "3205830283",
+          "streetname": "高勇村"
+      },
+      {
+          "streetcode": "3205830045",
+          "streetname": "共青村综治办"
+      },
+      {
+          "streetcode": "320583004D",
+          "streetname": "共青社区"
+      },
+      {
+          "streetcode": "3205830326",
+          "streetname": "古南警务室"
+      },
+      {
+          "streetcode": "320583007N",
+          "streetname": "古镇社区居委会"
+      },
+      {
+          "streetcode": "320583024H",
+          "streetname": "古鳌电子"
+      },
+      {
+          "streetcode": "320583006G",
+          "streetname": "顾家浜村 "
+      },
+      {
+          "streetcode": "320583032D",
+          "streetname": "观澜社区居委会"
+      },
+      {
+          "streetcode": "320583016A",
+          "streetname": "广福村村委"
+      },
+      {
+          "streetcode": "3205830119",
+          "streetname": "桂冠社区"
+      },
+      {
+          "streetcode": "3205830163",
+          "streetname": "海峰社区"
+      },
+      {
+          "streetcode": "320583014C",
+          "streetname": "合丰村"
+      },
+      {
+          "streetcode": "3205830291",
+          "streetname": "合兴社区"
+      },
+      {
+          "streetcode": "320583021C",
+          "streetname": "河寸泾居民委员会"
+      },
+      {
+          "streetcode": "320583020D",
+          "streetname": "横娄村"
+      },
+      {
+          "streetcode": "320583015E",
+          "streetname": "横墅江社区"
+      },
+      {
+          "streetcode": "3205830323",
+          "streetname": "横漕警务室"
+      },
+      {
+          "streetcode": "3205830048",
+          "streetname": "虹桥社区居委"
+      },
+      {
+          "streetcode": "320583003E",
+          "streetname": "红峰社区居委"
+      },
+      {
+          "streetcode": "320583004B",
+          "streetname": "红旗社区居委 "
+      },
+      {
+          "streetcode": "320583006M",
+          "streetname": "红霞村 "
+      },
+      {
+          "streetcode": "320583024A",
+          "streetname": "红星村"
+      },
+      {
+          "streetcode": "3205830129",
+          "streetname": "红杨河村"
+      },
+      {
+          "streetcode": "3205830189",
+          "streetname": "湖滨花园 "
+      },
+      {
+          "streetcode": "3205830151",
+          "streetname": "花安社区"
+      },
+      {
+          "streetcode": "3205830325",
+          "streetname": "花桥规建局"
+      },
+      {
+          "streetcode": "320583015B",
+          "streetname": "花桥规建局"
+      },
+      {
+          "streetcode": "3205830150",
+          "streetname": "花桥派出所"
+      },
+      {
+          "streetcode": "3205830156",
+          "streetname": "花桥社区"
+      },
+      {
+          "streetcode": "320583015A",
+          "streetname": "花桥市镇"
+      },
+      {
+          "streetcode": "3205830154",
+          "streetname": "花溪社区"
+      },
+      {
+          "streetcode": "3205830255",
+          "streetname": "花园村"
+      },
+      {
+          "streetcode": "3205830161",
+          "streetname": "花园社区"
+      },
+      {
+          "streetcode": "3205830231",
+          "streetname": "华强社区"
+      },
+      {
+          "streetcode": "320583004L",
+          "streetname": "华润社区居委会"
+      },
+      {
+          "streetcode": "320583012F",
+          "streetname": "华社村"
+      },
+      {
+          "streetcode": "320583012K",
+          "streetname": "环湖村"
+      },
+      {
+          "streetcode": "320583031C",
+          "streetname": "皇仓泾社区"
+      },
+      {
+          "streetcode": "3205830164",
+          "streetname": "火炬社区"
+      },
+      {
+          "streetcode": "320583030C",
+          "streetname": "吉星社区居委会"
+      },
+      {
+          "streetcode": "3205830155",
+          "streetname": "集善社区"
+      },
+      {
+          "streetcode": "3205830068",
+          "streetname": "计家墩村 "
+      },
+      {
+          "streetcode": "3205830224",
+          "streetname": "建通村"
+      },
+      {
+          "streetcode": "320583025G",
+          "streetname": "姜杭村"
+      },
+      {
+          "streetcode": "3205830056",
+          "streetname": "姜巷村村委 "
+      },
+      {
+          "streetcode": "320583004C",
+          "streetname": "江浦村村委"
+      },
+      {
+          "streetcode": "320583007Z",
+          "streetname": "教育局采集点"
+      },
+      {
+          "streetcode": "320583016Z",
+          "streetname": "教育局采集点 "
+      },
+      {
+          "streetcode": "320583001Z",
+          "streetname": "教育局采集点 "
+      },
+      {
+          "streetcode": "3205830158",
+          "streetname": "金城村"
+      },
+      {
+          "streetcode": "3205830254",
+          "streetname": "金华村"
+      },
+      {
+          "streetcode": "3205830245",
+          "streetname": "金家庄村"
+      },
+      {
+          "streetcode": "320583011B",
+          "streetname": "金威社区"
+      },
+      {
+          "streetcode": "320583025W",
+          "streetname": "锦和社区"
+      },
+      {
+          "streetcode": "3205830082",
+          "streetname": "锦华园"
+      },
+      {
+          "streetcode": "320583006L",
+          "streetname": "锦溪花园社区"
+      },
+      {
+          "streetcode": "3205830060",
+          "streetname": "锦溪派出所"
+      },
+      {
+          "streetcode": "3205830308",
+          "streetname": "精密机械产业园服务区"
+      },
+      {
+          "streetcode": "3205830058",
+          "streetname": "景村村村委 "
+      },
+      {
+          "streetcode": "320583015D",
+          "streetname": "聚福社区"
+      },
+      {
+          "streetcode": "320583015F",
+          "streetname": "聚杨社区居民委员会"
+      },
+      {
+          "streetcode": "3205830116",
+          "streetname": "康泾湾社区"
+      },
+      {
+          "streetcode": "3205830301",
+          "streetname": "孔巷社区"
+      },
+      {
+          "streetcode": "3205830341",
+          "streetname": "孔巷社区"
+      },
+      {
+          "streetcode": "320583005D",
+          "streetname": "昆山乙盛机械工业有限公司"
+      },
+      {
+          "streetcode": "320583030D",
+          "streetname": "昆苑社区居委会"
+      },
+      {
+          "streetcode": "3205830215",
+          "streetname": "乐和社区"
+      },
+      {
+          "streetcode": "3205830217",
+          "streetname": "乐康社区"
+      },
+      {
+          "streetcode": "3205830216",
+          "streetname": "乐善社区"
+      },
+      {
+          "streetcode": "3205830218",
+          "streetname": "乐文社区"
+      },
+      {
+          "streetcode": "320583003B",
+          "streetname": "里厍社区居委"
+      },
+      {
+          "streetcode": "320583011D",
+          "streetname": "丽德社区"
+      },
+      {
+          "streetcode": "3205830085",
+          "streetname": "丽华社区"
+      },
+      {
+          "streetcode": "3205830243",
+          "streetname": "利民社区"
+      },
+      {
+          "streetcode": "3205830168",
+          "streetname": "力量社区"
+      },
+      {
+          "streetcode": "320583006F",
+          "streetname": "联湖村"
+      },
+      {
+          "streetcode": "320583012E",
+          "streetname": "联民村"
+      },
+      {
+          "streetcode": "320583025M",
+          "streetname": "林庄村"
+      },
+      {
+          "streetcode": "320583012M",
+          "streetname": "临湖社区居委会"
+      },
+      {
+          "streetcode": "3205830281",
+          "streetname": "龙风村"
+      },
+      {
+          "streetcode": "3205830127",
+          "streetname": "龙潭湖村"
+      },
+      {
+          "streetcode": "3205830287",
+          "streetname": "龙亭村"
+      },
+      {
+          "streetcode": "3205830144",
+          "streetname": "龙王社区"
+      },
+      {
+          "streetcode": "320583004F",
+          "streetname": "娄江社区"
+      },
+      {
+          "streetcode": "3205830313",
+          "streetname": "娄苑社区"
+      },
+      {
+          "streetcode": "3205830145",
+          "streetname": "陆家村"
+      },
+      {
+          "streetcode": "3205830140",
+          "streetname": "陆家派出所"
+      },
+      {
+          "streetcode": "320583023B",
+          "streetname": "陆家桥村"
+      },
+      {
+          "streetcode": "3205830141",
+          "streetname": "陆家社区"
+      },
+      {
+          "streetcode": "320583014D",
+          "streetname": "陆家社区"
+      },
+      {
+          "streetcode": "320583020E",
+          "streetname": "陆桥村"
+      },
+      {
+          "streetcode": "3205830209",
+          "streetname": "陆杨社区"
+      },
+      {
+          "streetcode": "320583006E",
+          "streetname": "陆泾村 "
+      },
+      {
+          "streetcode": "3205830328",
+          "streetname": "绿地警务室"
+      },
+      {
+          "streetcode": "3205830329",
+          "streetname": "绿地警务室"
+      },
+      {
+          "streetcode": "3205830128",
+          "streetname": "马料江村"
+      },
+      {
+          "streetcode": "320583007J",
+          "streetname": "马路桥社区"
+      },
+      {
+          "streetcode": "320583022C",
+          "streetname": "马塘村"
+      },
+      {
+          "streetcode": "3205830237",
+          "streetname": "马巷村"
+      },
+      {
+          "streetcode": "320583006C",
+          "streetname": "马援庄村 "
+      },
+      {
+          "streetcode": "3205830057",
+          "streetname": "马庄村村委"
+      },
+      {
+          "streetcode": "3205830126",
+          "streetname": "茅沙塘村"
+      },
+      {
+          "streetcode": "3205830117",
+          "streetname": "毛厍社区"
+      },
+      {
+          "streetcode": "320583005I",
+          "streetname": "美丰社区 "
+      },
+      {
+          "streetcode": "3205830087",
+          "streetname": "美华"
+      },
+      {
+          "streetcode": "3205830083",
+          "streetname": "美华社区"
+      },
+      {
+          "streetcode": "3205830061",
+          "streetname": "孟子浜村"
+      },
+      {
+          "streetcode": "3205830043",
+          "streetname": "庙灯村综治办"
+      },
+      {
+          "streetcode": "320583024C",
+          "streetname": "民和村"
+      },
+      {
+          "streetcode": "320583004M",
+          "streetname": "明珠社区居委会"
+      },
+      {
+          "streetcode": "3205830118",
+          "streetname": "睦和社区"
+      },
+      {
+          "streetcode": "320583025I",
+          "streetname": "南港社区"
+      },
+      {
+          "streetcode": "320583028A",
+          "streetname": "南湖村"
+      },
+      {
+          "streetcode": "320583025S",
+          "streetname": "南吉山村"
+      },
+      {
+          "streetcode": "320583007A",
+          "streetname": "南吉山村(撤销) "
+      },
+      {
+          "streetcode": "320583006J",
+          "streetname": "南前村"
+      },
+      {
+          "streetcode": "320583021A",
+          "streetname": "南桥社区"
+      },
+      {
+          "streetcode": "3205830076",
+          "streetname": "南湾村 "
+      },
+      {
+          "streetcode": "320583005C",
+          "streetname": "南星渎村 "
+      },
+      {
+          "streetcode": "320583025F",
+          "streetname": "南姚村"
+      },
+      {
+          "streetcode": "3205830049",
+          "streetname": "南渔村村委"
+      },
+      {
+          "streetcode": "3205830238",
+          "streetname": "年沙村"
+      },
+      {
+          "streetcode": "320583007O",
+          "streetname": "年沙社区居民委员会"
+      },
+      {
+          "streetcode": "3205830018",
+          "streetname": "盆渎村社区"
+      },
+      {
+          "streetcode": "3205830225",
+          "streetname": "蓬北村"
+      },
+      {
+          "streetcode": "3205830220",
+          "streetname": "蓬朗派出所"
+      },
+      {
+          "streetcode": "3205830221",
+          "streetname": "蓬朗社区"
+      },
+      {
+          "streetcode": "3205830226",
+          "streetname": "蓬南村"
+      },
+      {
+          "streetcode": "3205830159",
+          "streetname": "蓬善村"
+      },
+      {
+          "streetcode": "3205830222",
+          "streetname": "蓬曦园社区"
+      },
+      {
+          "streetcode": "3205830211",
+          "streetname": "平巷社区"
+      },
+      {
+          "streetcode": "3205830204",
+          "streetname": "平庄村"
+      },
+      {
+          "streetcode": "3205830257",
+          "streetname": "七桥村"
+      },
+      {
+          "streetcode": "3205830288",
+          "streetname": "祁浜村"
+      },
+      {
+          "streetcode": "3205830070",
+          "streetname": "千灯派出所"
+      },
+      {
+          "streetcode": "320583029C",
+          "streetname": "千叶公寓"
+      },
+      {
+          "streetcode": "320583007E",
+          "streetname": "前进村 "
+      },
+      {
+          "streetcode": "320583025V",
+          "streetname": "亲和社区"
+      },
+      {
+          "streetcode": "320583007M",
+          "streetname": "秦峰社区 "
+      },
+      {
+          "streetcode": "3205830080",
+          "streetname": "青阳派出所"
+      },
+      {
+          "streetcode": "320583005E",
+          "streetname": "青淞村 "
+      },
+      {
+          "streetcode": "3205830054",
+          "streetname": "青淞社区 "
+      },
+      {
+          "streetcode": "3205830044",
+          "streetname": "青淞社区警务站"
+      },
+      {
+          "streetcode": "3205830316",
+          "streetname": "清水港社区"
+      },
+      {
+          "streetcode": "320583028C",
+          "streetname": "全功能社区"
+      },
+      {
+          "streetcode": "3205830282",
+          "streetname": "全旺村"
+      },
+      {
+          "streetcode": "320583005B",
+          "streetname": "群星村村委"
+      },
+      {
+          "streetcode": "3205830302",
+          "streetname": "群益社区"
+      },
+      {
+          "streetcode": "3205830305",
+          "streetname": "群益社区二"
+      },
+      {
+          "streetcode": "3205830184",
+          "streetname": "荣亭村 "
+      },
+      {
+          "streetcode": "3205830064",
+          "streetname": "阮家浜村 "
+      },
+      {
+          "streetcode": "320583025B",
+          "streetname": "三家村"
+      },
+      {
+          "streetcode": "320583006D",
+          "streetname": "三联村"
+      },
+      {
+          "streetcode": "320583007C",
+          "streetname": "善浦村 "
+      },
+      {
+          "streetcode": "3205830152",
+          "streetname": "上岸村"
+      },
+      {
+          "streetcode": "320583006N",
+          "streetname": "上塘社区"
+      },
+      {
+          "streetcode": "320583025E",
+          "streetname": "尚明甸村"
+      },
+      {
+          "streetcode": "3205830142",
+          "streetname": "邵村社区"
+      },
+      {
+          "streetcode": "3205830227",
+          "streetname": "邵泾村"
+      },
+      {
+          "streetcode": "3205830147",
+          "streetname": "神童泾村"
+      },
+      {
+          "streetcode": "3205830079",
+          "streetname": "盛家埭村"
+      },
+      {
+          "streetcode": "320583006K",
+          "streetname": "盛塘村 "
+      },
+      {
+          "streetcode": "3205830212",
+          "streetname": "盛庄村"
+      },
+      {
+          "streetcode": "3205830169",
+          "streetname": "胜利社区"
+      },
+      {
+          "streetcode": "3205830078",
+          "streetname": "施家泾村 "
+      },
+      {
+          "streetcode": "3205830233",
+          "streetname": "石北村"
+      },
+      {
+          "streetcode": "320583022A",
+          "streetname": "石牌村"
+      },
+      {
+          "streetcode": "3205830232",
+          "streetname": "石浦村"
+      },
+      {
+          "streetcode": "3205830230",
+          "streetname": "石浦派出所"
+      },
+      {
+          "streetcode": "320583030E",
+          "streetname": "石桥社区居委会"
+      },
+      {
+          "streetcode": "3205830242",
+          "streetname": "石洋河社区"
+      },
+      {
+          "streetcode": "320583032B",
+          "streetname": "时代社区"
+      },
+      {
+          "streetcode": "3205830207",
+          "streetname": "市北村"
+      },
+      {
+          "streetcode": "3205830188",
+          "streetname": "市镇南片"
+      },
+      {
+          "streetcode": "320583023C",
+          "streetname": "市镇社区居委会"
+      },
+      {
+          "streetcode": "320583007H",
+          "streetname": "市政二居委"
+      },
+      {
+          "streetcode": "320583007L",
+          "streetname": "市政三居委"
+      },
+      {
+          "streetcode": "320583007G",
+          "streetname": "市政一居委 "
+      },
+      {
+          "streetcode": "320583024D",
+          "streetname": "双护村"
+      },
+      {
+          "streetcode": "3205830229",
+          "streetname": "双林村"
+      },
+      {
+          "streetcode": "3205830285",
+          "streetname": "双庙村"
+      },
+      {
+          "streetcode": "3205830153",
+          "streetname": "顺扬村"
+      },
+      {
+          "streetcode": "320583004I",
+          "streetname": "思常社区"
+      },
+      {
+          "streetcode": "3205830293",
+          "streetname": "司徒社区"
+      },
+      {
+          "streetcode": "320583016F",
+          "streetname": "唐龙村村委"
+      },
+      {
+          "streetcode": "320583007D",
+          "streetname": "陶家桥村"
+      },
+      {
+          "streetcode": "3205830327",
+          "streetname": "天福警务室"
+      },
+      {
+          "streetcode": "320583015C",
+          "streetname": "天福社区"
+      },
+      {
+          "streetcode": "3205830038",
+          "streetname": "亭林街道"
+      },
+      {
+          "streetcode": "320583003A",
+          "streetname": "亭林社区居委"
+      },
+      {
+          "streetcode": "3205830181",
+          "streetname": "通澄村"
+      },
+      {
+          "streetcode": "3205830299",
+          "streetname": "同丰社区"
+      },
+      {
+          "streetcode": "3205830310",
+          "streetname": "同心派出所"
+      },
+      {
+          "streetcode": "3205830311",
+          "streetname": "同心社区"
+      },
+      {
+          "streetcode": "320583030G",
+          "streetname": "伟业社区居委会"
+      },
+      {
+          "streetcode": "3205830065",
+          "streetname": "卫星村"
+      },
+      {
+          "streetcode": "3205830256",
+          "streetname": "吴家村"
+      },
+      {
+          "streetcode": "320583007I",
+          "streetname": "吴桥村 "
+      },
+      {
+          "streetcode": "3205830050",
+          "streetname": "吴淞江派出所"
+      },
+      {
+          "streetcode": "320583012I",
+          "streetname": "武城村"
+      },
+      {
+          "streetcode": "320583012A",
+          "streetname": "武神潭村"
+      },
+      {
+          "streetcode": "320583016C",
+          "streetname": "五联村村委"
+      },
+      {
+          "streetcode": "3205830294",
+          "streetname": "西河社区"
+      },
+      {
+          "streetcode": "320583007B",
+          "streetname": "西横村"
+      },
+      {
+          "streetcode": "320583012J",
+          "streetname": "西南村"
+      },
+      {
+          "streetcode": "3205830019",
+          "streetname": "西桥社区"
+      },
+      {
+          "streetcode": "3205830075",
+          "streetname": "西宿村"
+      },
+      {
+          "streetcode": "3205830295",
+          "streetname": "西湾社区"
+      },
+      {
+          "streetcode": "320583006I",
+          "streetname": "狭港村 "
+      },
+      {
+          "streetcode": "320583018A",
+          "streetname": "下塘南片"
+      },
+      {
+          "streetcode": "320583006P",
+          "streetname": "下塘社区 "
+      },
+      {
+          "streetcode": "320583012H",
+          "streetname": "夏东村"
+      },
+      {
+          "streetcode": "3205830213",
+          "streetname": "夏驾社区"
+      },
+      {
+          "streetcode": "3205830148",
+          "streetname": "夏桥村"
+      },
+      {
+          "streetcode": "320583024J",
+          "streetname": "香馨社区居委会"
+      },
+      {
+          "streetcode": "3205830162",
+          "streetname": "萧林社区"
+      },
+      {
+          "streetcode": "320583022B",
+          "streetname": "小连村"
+      },
+      {
+          "streetcode": "3205830035",
+          "streetname": "小桃园社区居委"
+      },
+      {
+          "streetcode": "3205830011",
+          "streetname": "小渔岸社区居委"
+      },
+      {
+          "streetcode": "320583020F",
+          "streetname": "小泾村"
+      },
+      {
+          "streetcode": "3205830074",
+          "streetname": "肖市村 "
+      },
+      {
+          "streetcode": "3205830239",
+          "streetname": "歇马桥村"
+      },
+      {
+          "streetcode": "3205830202",
+          "streetname": "斜塘村"
+      },
+      {
+          "streetcode": "3205830322",
+          "streetname": "新安警务室"
+      },
+      {
+          "streetcode": "320583032A",
+          "streetname": "新安警务室中宇办证点"
+      },
+      {
+          "streetcode": "3205830314",
+          "streetname": "新北社区"
+      },
+      {
+          "streetcode": "320583005F",
+          "streetname": "新城域社区"
+      },
+      {
+          "streetcode": "320583016E",
+          "streetname": "新江村村委"
+      },
+      {
+          "streetcode": "320583004E",
+          "streetname": "新江南康居园"
+      },
+      {
+          "streetcode": "3205830124",
+          "streetname": "新开河村"
+      },
+      {
+          "streetcode": "320583003D",
+          "streetname": "新昆社区居委"
+      },
+      {
+          "streetcode": "3205830318",
+          "streetname": "新乐村村委"
+      },
+      {
+          "streetcode": "320583031B",
+          "streetname": "新乐融城社区"
+      },
+      {
+          "streetcode": "320583025K",
+          "streetname": "新龙村"
+      },
+      {
+          "streetcode": "320583005G",
+          "streetname": "新南村 "
+      },
+      {
+          "streetcode": "3205830053",
+          "streetname": "新南社区"
+      },
+      {
+          "streetcode": "3205830324",
+          "streetname": "新浦警务室"
+      },
+      {
+          "streetcode": "320583016D",
+          "streetname": "新生村村委"
+      },
+      {
+          "streetcode": "3205830234",
+          "streetname": "新潭村"
+      },
+      {
+          "streetcode": "3205830253",
+          "streetname": "新塘村"
+      },
+      {
+          "streetcode": "320583025U",
+          "streetname": "新吴社区"
+      },
+      {
+          "streetcode": "320583005J",
+          "streetname": "新溪社区"
+      },
+      {
+          "streetcode": "320583025T",
+          "streetname": "新巷社区"
+      },
+      {
+          "streetcode": "320583024F",
+          "streetname": "新杨村"
+      },
+      {
+          "streetcode": "3205830031",
+          "streetname": "新阳社区居委"
+      },
+      {
+          "streetcode": "3205830112",
+          "streetname": "新镇村"
+      },
+      {
+          "streetcode": "3205830110",
+          "streetname": "新镇派出所"
+      },
+      {
+          "streetcode": "320583011C",
+          "streetname": "新镇社区"
+      },
+      {
+          "streetcode": "320583023A",
+          "streetname": "新泾村"
+      },
+      {
+          "streetcode": "320583020A",
+          "streetname": "新瑭村"
+      },
+      {
+          "streetcode": "320583005K",
+          "streetname": "星辰社区 "
+      },
+      {
+          "streetcode": "320583004A",
+          "streetname": "星海社区居委"
+      },
+      {
+          "streetcode": "320583025J",
+          "streetname": "星金村"
+      },
+      {
+          "streetcode": "3205830321",
+          "streetname": "星浜警务室"
+      },
+      {
+          "streetcode": "3205830247",
+          "streetname": "兴复村"
+      },
+      {
+          "streetcode": "3205830297",
+          "streetname": "绣东社区"
+      },
+      {
+          "streetcode": "3205830296",
+          "streetname": "绣衣社区"
+      },
+      {
+          "streetcode": "3205830017",
+          "streetname": "需浦社区"
+      },
+      {
+          "streetcode": "320583020B",
+          "streetname": "许家村"
+      },
+      {
+          "streetcode": "3205830016",
+          "streetname": "严家角社区"
+      },
+      {
+          "streetcode": "3205830071",
+          "streetname": "炎武社区"
+      },
+      {
+          "streetcode": "3205830059",
+          "streetname": "燕桥浜村村委"
+      },
+      {
+          "streetcode": "320583016G",
+          "streetname": "杨林社区"
+      },
+      {
+          "streetcode": "320583024E",
+          "streetname": "杨湘泾村"
+      },
+      {
+          "streetcode": "3205830182",
+          "streetname": "阳澄湖村 "
+      },
+      {
+          "streetcode": "320583011A",
+          "streetname": "阳光社区"
+      },
+      {
+          "streetcode": "320583004K",
+          "streetname": "叶菏社区居委会"
+      },
+      {
+          "streetcode": "320583025O",
+          "streetname": "银和社区居民委员会"
+      },
+      {
+          "streetcode": "3205830203",
+          "streetname": "永共村"
+      },
+      {
+          "streetcode": "3205830166",
+          "streetname": "永盛社区"
+      },
+      {
+          "streetcode": "3205830248",
+          "streetname": "永新村"
+      },
+      {
+          "streetcode": "3205830081",
+          "streetname": "永馨家园"
+      },
+      {
+          "streetcode": "3205830236",
+          "streetname": "余项村"
+      },
+      {
+          "streetcode": "320583003G",
+          "streetname": "玉峰社区居委"
+      },
+      {
+          "streetcode": "320583029A",
+          "streetname": "玉龙社区"
+      },
+      {
+          "streetcode": "320583012L",
+          "streetname": "玉石社区"
+      },
+      {
+          "streetcode": "3205830143",
+          "streetname": "育才社区 "
+      },
+      {
+          "streetcode": "320583006A",
+          "streetname": "袁甸村 "
+      },
+      {
+          "streetcode": "3205830012",
+          "streetname": "跃进路社区居委"
+      },
+      {
+          "streetcode": "3205830284",
+          "streetname": "云南村"
+      },
+      {
+          "streetcode": "3205830228",
+          "streetname": "增辉村"
+      },
+      {
+          "streetcode": "3205830219",
+          "streetname": "章基社区"
+      },
+      {
+          "streetcode": "3205830067",
+          "streetname": "张家厍村"
+      },
+      {
+          "streetcode": "3205830250",
+          "streetname": "张浦派出所"
+      },
+      {
+          "streetcode": "3205830251",
+          "streetname": "张浦社区"
+      },
+      {
+          "streetcode": "320583025C",
+          "streetname": "张浦所大市警务站"
+      },
+      {
+          "streetcode": "320583025H",
+          "streetname": "张浦所南港警务站"
+      },
+      {
+          "streetcode": "3205830258",
+          "streetname": "赵陵村"
+      },
+      {
+          "streetcode": "3205830042",
+          "streetname": "赵厍村综办治"
+      },
+      {
+          "streetcode": "320583028B",
+          "streetname": "贞丰里社区"
+      },
+      {
+          "streetcode": "3205830032",
+          "streetname": "震川社区居委"
+      },
+      {
+          "streetcode": "3205830252",
+          "streetname": "振苏社区"
+      },
+      {
+          "streetcode": "3205830015",
+          "streetname": "正阳路社区居委"
+      },
+      {
+          "streetcode": "3205830183",
+          "streetname": "正仪村"
+      },
+      {
+          "streetcode": "3205830180",
+          "streetname": "正仪派出所"
+      },
+      {
+          "streetcode": "3205830077",
+          "streetname": "支浦村"
+      },
+      {
+          "streetcode": "3205830304",
+          "streetname": "中华园街道办事处"
+      },
+      {
+          "streetcode": "3205830300",
+          "streetname": "中华园派出所"
+      },
+      {
+          "streetcode": "3205830235",
+          "streetname": "中节村"
+      },
+      {
+          "streetcode": "3205830114",
+          "streetname": "中乐社区"
+      },
+      {
+          "streetcode": "320583006H",
+          "streetname": "周家浜村"
+      },
+      {
+          "streetcode": "3205830200",
+          "streetname": "周市派出所"
+      },
+      {
+          "streetcode": "3205830201",
+          "streetname": "周市社区"
+      },
+      {
+          "streetcode": "3205830208",
+          "streetname": "周市所陆杨警务站"
+      },
+      {
+          "streetcode": "320583025A",
+          "streetname": "周巷村"
+      },
+      {
+          "streetcode": "3205830280",
+          "streetname": "周庄派出所"
+      },
+      {
+          "streetcode": "3205830292",
+          "streetname": "珠江社区"
+      },
+      {
+          "streetcode": "3205830113",
+          "streetname": "珠泾村"
+      },
+      {
+          "streetcode": "3205830205",
+          "streetname": "朱家湾村"
+      },
+      {
+          "streetcode": "320583006B",
+          "streetname": "朱浜村"
+      },
+      {
+          "streetcode": "320583007F",
+          "streetname": "庄巷村"
+      },
+      {
+          "streetcode": "320583003F",
+          "streetname": "状元泾社区居委"
+      },
+      {
+          "streetcode": "3205830317",
+          "streetname": "紫藤社区"
+      },
+      {
+          "streetcode": "3205830312",
+          "streetname": "紫竹社区"
+      },
+      {
+          "streetcode": "3205830342",
+          "streetname": "综保区"
+      },
+      {
+          "streetcode": "3205830149",
+          "streetname": "邹家角村"
+      },
+      {
+          "streetcode": "320583021B",
+          "streetname": "茜步泾居民委员会"
+      },
+      {
+          "streetcode": "3205830055",
+          "streetname": "茗景苑社区"
+      },
+      {
+          "streetcode": "320583016H",
+          "streetname": "怡和社区"
+      },
+      {
+          "streetcode": "320583014A",
+          "streetname": "泗桥村"
+      },
+      {
+          "streetcode": "320583032C",
+          "streetname": "泗泾社区居委会"
+      },
+      {
+          "streetcode": "3205830046",
+          "streetname": "泾河村综治办"
+      },
+      {
+          "streetcode": "320583004G",
+          "streetname": "泾河社区"
+      },
+      {
+          "streetcode": "320583007K",
+          "streetname": "淞南社区 "
+      },
+      {
+          "streetcode": "3205830167",
+          "streetname": "濂园社区"
+      },
+      {
+          "streetcode": "3205830187",
+          "streetname": "桦晟 "
+      },
+      {
+          "streetcode": "320583029B",
+          "streetname": "樾城社区"
+      },
+      {
+          "streetcode": "320583024B",
+          "streetname": "晟泰村"
+      },
+      {
+          "streetcode": "3205830069",
+          "streetname": "虬泽村"
+      }
+  ],
+  "timestamp": 1691717328915
+}

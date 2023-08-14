@@ -1,0 +1,131 @@
+{
+  "resultDesc": "操作成功！",
+  "resultCode": 1,
+  "data": [
+      {
+          "policestationid": "EBF1B73E962142D18828C46E711AC469",
+          "policestationname": "单位内部安全保卫大队"
+      },
+      {
+          "policestationid": "06AC8AE7585D47718CF58F237DDA7E59",
+          "policestationname": "行政许可服务大队"
+      },
+      {
+          "policestationid": "3C6B0FABA2514C1AB6541135A9DCBAB7",
+          "policestationname": "刑事警察大队"
+      },
+      {
+          "policestationid": "9f285aae-c227-407c-ad6f-d116ff803259",
+          "policestationname": "蓬朗派出所"
+      },
+      {
+          "policestationid": "4e9c11a4-e8db-471b-a6be-d5f704db88a7",
+          "policestationname": "兵希派出所"
+      },
+      {
+          "policestationid": "ca7e9cc5-ed91-421b-b005-7c6852a97b3e",
+          "policestationname": "同心派出所"
+      },
+      {
+          "policestationid": "f681bad9-eb3f-41de-91cb-26508a0f82c5",
+          "policestationname": "中华园派出所"
+      },
+      {
+          "policestationid": "953839f1-b092-4d2d-91ce-3d9e07a81193",
+          "policestationname": "吴淞江派出所"
+      },
+      {
+          "policestationid": "b7da7860-80e4-4aaa-976c-d777f2b75965",
+          "policestationname": "城中派出所"
+      },
+      {
+          "policestationid": "121740f6-5ed1-43e4-8cb8-52ba0656ec5b",
+          "policestationname": "朝阳派出所"
+      },
+      {
+          "policestationid": "5059b971-295e-4af3-b617-0016ef6621ae",
+          "policestationname": "城北派出所"
+      },
+      {
+          "policestationid": "e1a3cb1d-3528-4e05-b2e6-5a23ab4b8788",
+          "policestationname": "城西派出所"
+      },
+      {
+          "policestationid": "f8a6e51b-fd86-4716-a19b-9683662111de",
+          "policestationname": "科技教育园派出所"
+      },
+      {
+          "policestationid": "e9102e1d-138f-4d0d-97fc-dc4dc4ca6165",
+          "policestationname": "陆家派出所"
+      },
+      {
+          "policestationid": "20a2d986-dd10-47a0-91e9-a6b9ea1c0766",
+          "policestationname": "花桥派出所"
+      },
+      {
+          "policestationid": "26353e74-87bc-4326-8fc3-70cee0fe5588",
+          "policestationname": "巴城派出所"
+      },
+      {
+          "policestationid": "077293c1-7850-4a49-9491-1a059933f1d8",
+          "policestationname": "周市派出所"
+      },
+      {
+          "policestationid": "48e093d5-b461-4064-a918-5edf394d6511",
+          "policestationname": "张浦派出所"
+      },
+      {
+          "policestationid": "99693bdf-9748-4693-ac71-782dc39bef63",
+          "policestationname": "千灯派出所"
+      },
+      {
+          "policestationid": "976dc974-9047-4955-b0b8-ac45bad4f43e",
+          "policestationname": "淀山湖派出所"
+      },
+      {
+          "policestationid": "d84580bf-ae5b-4411-aa44-c7cd5d4d3d36",
+          "policestationname": "锦溪派出所"
+      },
+      {
+          "policestationid": "45a804c2-263e-41cb-a847-a449f83bdd70",
+          "policestationname": "周庄派出所"
+      },
+      {
+          "policestationid": "4765c471-6652-479c-b205-f273b9d46c7f",
+          "policestationname": "曹安派出所"
+      },
+      {
+          "policestationid": "44d02f80-5008-4746-a08a-9190fa146e9a",
+          "policestationname": "正仪派出所"
+      },
+      {
+          "policestationid": "3ba02a11-7163-4b9f-84a1-34446d65036e",
+          "policestationname": "新镇派出所"
+      },
+      {
+          "policestationid": "df43b0be-fca4-468f-8f91-0af34bc38789",
+          "policestationname": "石浦派出所"
+      },
+      {
+          "policestationid": "13e3ebf1-6e80-46e9-b3e2-7d00b2f44461",
+          "policestationname": "长江派出所"
+      },
+      {
+          "policestationid": "27e5bc57-66e7-499d-9198-34a8bb963fd0",
+          "policestationname": "青阳派出所"
+      },
+      {
+          "policestationid": "2bbaf591-a875-493c-ba75-8d437cd1592d",
+          "policestationname": "综合保税区派出所"
+      },
+      {
+          "policestationid": "151104366A814032B47D30F098356ADD",
+          "policestationname": "人口管理大队"
+      },
+      {
+          "policestationid": "8DE744CF715A4779B3795E47EB2C18F5",
+          "policestationname": "指挥中心"
+      }
+  ],
+  "timestamp": 1691717328821
+}
