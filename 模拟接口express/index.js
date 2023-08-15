@@ -4,6 +4,8 @@ var fs = require("fs");
 
 // 查
 app.get('/listUsers', function (req, res) {
+  // console.log(req)
+  // console.log(res)
     fs.readFile( __dirname + "/" + "users.json", 'utf8', function (err, data) {
         console.log( data );
         res.end( data );
