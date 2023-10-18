@@ -1,3 +1,6 @@
+/**
+ * 将路由单独封装
+ */
 const express = require("express");
 const router = require("./routes/index")
 
