@@ -5,6 +5,20 @@ var express = require('express');
 
 var app = express();
 
+
+
+app.use('/', function (req, res) {
+    // console.log(req.headers)
+    console.log("use")
+    res.send("use Hello world")
+});
+
+app.get('/', function (req, res) {
+    // console.log(req.headers)
+    console.log("get")
+    res.send("get Hello world")
+});
+
 app.get('/home/:id/:name/:age',(req,res) => {
     // 响应给客户端
     // 通过req.params获取请求参数
@@ -17,11 +31,7 @@ app.get('/index/:id/:name(*)/:age(*)',(req,res) => {
     res.send(req.params); //{"0":"mark","1":"12","id":"11","name":"mark","age":"12"}
 })
 
-app.get('/', function (req, res) {
-    // console.log(req.headers)
-    console.log(req.query)
-    res.send("Hello world")
-});
+
 
 app.post('/', function (req, res) {
     console.log(req)

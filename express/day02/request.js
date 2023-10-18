@@ -8,10 +8,11 @@ var { getDb, saveDb } = require('./db');
 var app = express();
 
 // 配置解析表单请求体  application/json
-// 加了这配置，req.bodu就可以拿到参数
+// 加了这配置，req.body就可以拿到参数
 app.use(express.json());
 
 // 配置解析表单请求体  application/x-www-form-urlencoded
+// 加了这配置，req.body就可以拿到参数
 app.use(express.urlencoded())
 
 // 获取

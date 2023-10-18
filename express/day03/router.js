@@ -10,10 +10,12 @@ var router = express.Router();
 
 router.get("/", function (req, res, next) {
   console.log("Router Working");
-  //   req.url = "./index.html";
-  //     next();
+  // 方式一
+  req.url = "./index.html";
+  next();
 
-  res.sendFile(path.join(__dirname, "index.html"));
+  //方式二 都ok
+  // res.sendFile(path.join(__dirname, "index.html"));
 });
 
 // app.use(history);
